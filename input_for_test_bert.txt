@@ -1,0 +1,4 @@
+what kind of image is this?
+is this a t1 weighted image?
+what type of imaging modality is used to acquire the image?
+is this a noncontrast mri?

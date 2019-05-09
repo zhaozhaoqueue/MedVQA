@@ -1,0 +1,2000 @@
+57|ct with iv contrast
+25|xr - plain film
+52|no
+46|t2
+19|yes
+19|yes
+51|iv
+52|no
+25|xr - plain film
+52|no
+57|ct with iv contrast
+25|xr - plain film
+19|yes
+23|contrast
+55|mr - t1w w/gadolinium
+4|t1
+52|no
+25|xr - plain film
+25|xr - plain film
+25|xr - plain film
+52|no
+25|xr - plain film
+52|no
+25|xr - plain film
+52|no
+25|xr - plain film
+60|us - ultrasound
+67|mr - t2 weighted
+52|no
+25|xr - plain film
+2|mammograph
+52|no
+20|noncontrast
+60|us - ultrasound
+44|ct w/contrast (iv)
+46|t2
+52|no
+46|t2
+44|ct w/contrast (iv)
+46|t2
+25|xr - plain film
+20|noncontrast
+25|xr - plain film
+25|xr - plain film
+25|xr - plain film
+46|t2
+25|xr - plain film
+60|us - ultrasound
+19|yes
+25|xr - plain film
+19|yes
+25|xr - plain film
+13|bas - barium swallow
+36|be - barium enema
+52|no
+57|ct with iv contrast
+4|t1
+52|no
+13|bas - barium swallow
+60|us - ultrasound
+25|xr - plain film
+52|no
+55|mr - t1w w/gadolinium
+17|mra - mr angiography/venography
+19|yes
+19|yes
+19|yes
+65|mr - flair
+57|ct with iv contrast
+67|mr - t2 weighted
+23|contrast
+19|yes
+25|xr - plain film
+42|cta - ct angiography
+19|yes
+55|mr - t1w w/gadolinium
+52|no
+4|t1
+1|mr - t1w - noncontrast
+23|contrast
+25|xr - plain film
+1|mr - t1w - noncontrast
+19|yes
+52|no
+46|t2
+23|contrast
+57|ct with iv contrast
+52|no
+1|mr - t1w - noncontrast
+2|mammograph
+25|xr - plain film
+32|mr - pdw proton density
+52|no
+25|xr - plain film
+19|yes
+25|xr - plain film
+25|xr - plain film
+52|no
+62|an - angiogram
+46|t2
+46|t2
+20|noncontrast
+52|no
+46|t2
+52|no
+52|no
+46|t2
+20|noncontrast
+60|us - ultrasound
+55|mr - t1w w/gadolinium
+25|xr - plain film
+19|yes
+65|mr - flair
+25|xr - plain film
+52|no
+52|no
+19|yes
+52|no
+67|mr - t2 weighted
+25|xr - plain film
+57|ct with iv contrast
+25|xr - plain film
+25|xr - plain film
+25|xr - plain film
+19|yes
+62|an - angiogram
+52|no
+52|no
+46|t2
+67|mr - t2 weighted
+52|no
+52|no
+25|xr - plain film
+19|yes
+20|noncontrast
+52|no
+23|contrast
+62|an - angiogram
+42|cta - ct angiography
+46|t2
+19|yes
+52|no
+19|yes
+25|xr - plain film
+19|yes
+25|xr - plain film
+52|no
+46|t2
+19|yes
+62|an - angiogram
+25|xr - plain film
+52|no
+65|mr - flair
+25|xr - plain film
+46|t2
+20|noncontrast
+19|yes
+52|no
+60|us - ultrasound
+19|yes
+19|yes
+25|xr - plain film
+29|ugi - upper gi
+52|no
+57|ct with iv contrast
+25|xr - plain film
+52|no
+19|yes
+52|no
+55|mr - t1w w/gadolinium
+19|yes
+20|noncontrast
+52|no
+65|mr - flair
+19|yes
+57|ct with iv contrast
+36|be - barium enema
+52|no
+62|an - angiogram
+25|xr - plain film
+52|no
+20|noncontrast
+1|mr - t1w - noncontrast
+19|yes
+30|flair
+44|ct w/contrast (iv)
+39|ct noncontrast
+4|t1
+52|no
+25|xr - plain film
+57|ct with iv contrast
+52|no
+19|yes
+25|xr - plain film
+44|ct w/contrast (iv)
+17|mra - mr angiography/venography
+25|xr - plain film
+52|no
+60|us - ultrasound
+19|yes
+52|no
+52|no
+67|mr - t2 weighted
+65|mr - flair
+46|t2
+19|yes
+42|cta - ct angiography
+19|yes
+39|ct noncontrast
+52|no
+25|xr - plain film
+25|xr - plain film
+1|mr - t1w - noncontrast
+25|xr - plain film
+52|no
+25|xr - plain film
+25|xr - plain film
+25|xr - plain film
+60|us - ultrasound
+25|xr - plain film
+32|mr - pdw proton density
+52|no
+52|no
+34|gi and iv
+55|mr - t1w w/gadolinium
+55|mr - t1w w/gadolinium
+51|iv
+23|contrast
+52|no
+52|no
+25|xr - plain film
+46|t2
+52|no
+51|iv
+23|contrast
+4|t1
+52|no
+52|no
+46|t2
+5|sbft - small bowel
+60|us - ultrasound
+52|no
+52|no
+19|yes
+46|t2
+4|t1
+43|mr - other pulse seq.
+25|xr - plain film
+25|xr - plain film
+52|no
+52|no
+4|t1
+19|yes
+60|us - ultrasound
+46|t2
+52|no
+52|no
+57|ct with iv contrast
+60|us - ultrasound
+46|t2
+52|no
+25|xr - plain film
+60|us - ultrasound
+46|t2
+25|xr - plain film
+62|an - angiogram
+52|no
+30|flair
+25|xr - plain film
+25|xr - plain film
+52|no
+19|yes
+52|no
+52|no
+25|xr - plain film
+1|mr - t1w - noncontrast
+46|t2
+52|no
+19|yes
+19|yes
+23|contrast
+19|yes
+19|yes
+25|xr - plain film
+46|t2
+19|yes
+62|an - angiogram
+17|mra - mr angiography/venography
+25|xr - plain film
+2|mammograph
+25|xr - plain film
+60|us - ultrasound
+52|no
+57|ct with iv contrast
+57|ct with iv contrast
+52|no
+19|yes
+52|no
+19|yes
+1|mr - t1w - noncontrast
+52|no
+25|xr - plain film
+25|xr - plain film
+32|mr - pdw proton density
+25|xr - plain film
+20|noncontrast
+62|an - angiogram
+62|an - angiogram
+52|no
+52|no
+51|iv
+25|xr - plain film
+62|an - angiogram
+13|bas - barium swallow
+62|an - angiogram
+19|yes
+19|yes
+57|ct with iv contrast
+52|no
+52|no
+25|xr - plain film
+2|mammograph
+4|t1
+19|yes
+46|t2
+20|noncontrast
+52|no
+19|yes
+52|no
+52|no
+62|an - angiogram
+30|flair
+19|yes
+52|no
+57|ct with iv contrast
+19|yes
+52|no
+52|no
+52|no
+25|xr - plain film
+2|mammograph
+36|be - barium enema
+52|no
+20|noncontrast
+1|mr - t1w - noncontrast
+62|an - angiogram
+60|us - ultrasound
+4|t1
+62|an - angiogram
+52|no
+25|xr - plain film
+52|no
+60|us - ultrasound
+20|noncontrast
+19|yes
+4|t1
+41|ct - gi & iv contrast
+25|xr - plain film
+52|no
+52|no
+52|no
+4|t1
+52|no
+42|cta - ct angiography
+52|no
+65|mr - flair
+60|us - ultrasound
+25|xr - plain film
+62|an - angiogram
+52|no
+25|xr - plain film
+52|no
+20|noncontrast
+67|mr - t2 weighted
+25|xr - plain film
+23|contrast
+52|no
+52|no
+46|t2
+19|yes
+25|xr - plain film
+52|no
+25|xr - plain film
+52|no
+41|ct - gi & iv contrast
+25|xr - plain film
+19|yes
+19|yes
+25|xr - plain film
+30|flair
+23|contrast
+25|xr - plain film
+46|t2
+52|no
+25|xr - plain film
+65|mr - flair
+52|no
+65|mr - flair
+20|noncontrast
+25|xr - plain film
+60|us - ultrasound
+23|contrast
+36|be - barium enema
+62|an - angiogram
+52|no
+20|noncontrast
+25|xr - plain film
+65|mr - flair
+67|mr - t2 weighted
+19|yes
+25|xr - plain film
+44|ct w/contrast (iv)
+19|yes
+46|t2
+23|contrast
+60|us - ultrasound
+19|yes
+4|t1
+52|no
+42|cta - ct angiography
+32|mr - pdw proton density
+25|xr - plain film
+2|mammograph
+60|us - ultrasound
+67|mr - t2 weighted
+23|contrast
+31|us-d - doppler ultrasound
+19|yes
+25|xr - plain film
+25|xr - plain film
+62|an - angiogram
+4|t1
+19|yes
+19|yes
+46|t2
+30|flair
+52|no
+19|yes
+60|us - ultrasound
+41|ct - gi & iv contrast
+67|mr - t2 weighted
+46|t2
+25|xr - plain film
+4|t1
+52|no
+25|xr - plain film
+65|mr - flair
+19|yes
+52|no
+52|no
+25|xr - plain film
+55|mr - t1w w/gadolinium
+62|an - angiogram
+2|mammograph
+34|gi and iv
+67|mr - t2 weighted
+52|no
+20|noncontrast
+52|no
+19|yes
+19|yes
+19|yes
+19|yes
+25|xr - plain film
+25|xr - plain film
+4|t1
+2|mammograph
+52|no
+20|noncontrast
+52|no
+42|cta - ct angiography
+55|mr - t1w w/gadolinium
+52|no
+65|mr - flair
+19|yes
+52|no
+20|noncontrast
+42|cta - ct angiography
+25|xr - plain film
+65|mr - flair
+13|bas - barium swallow
+39|ct noncontrast
+42|cta - ct angiography
+4|t1
+25|xr - plain film
+46|t2
+19|yes
+52|no
+52|no
+44|ct w/contrast (iv)
+52|no
+4|t1
+25|xr - plain film
+46|t2
+19|yes
+19|yes
+25|xr - plain film
+19|yes
+30|flair
+20|noncontrast
+66|axial
+0|lateral
+50|coronal
+66|axial
+61|sagittal
+66|axial
+66|axial
+66|axial
+21|pa
+61|sagittal
+66|axial
+21|pa
+50|coronal
+66|axial
+50|coronal
+61|sagittal
+66|axial
+49|frontal
+3|ap
+21|pa
+61|sagittal
+0|lateral
+66|axial
+3|ap
+50|coronal
+0|lateral
+61|sagittal
+66|axial
+66|axial
+3|ap
+48|mammo - mlo
+66|axial
+50|coronal
+61|sagittal
+66|axial
+66|axial
+66|axial
+50|coronal
+50|coronal
+50|coronal
+3|ap
+66|axial
+0|lateral
+49|frontal
+3|ap
+50|coronal
+3|ap
+12|transverse
+50|coronal
+3|ap
+50|coronal
+3|ap
+3|ap
+49|frontal
+66|axial
+66|axial
+61|sagittal
+61|sagittal
+3|ap
+12|transverse
+3|ap
+66|axial
+66|axial
+66|axial
+66|axial
+61|sagittal
+66|axial
+61|sagittal
+66|axial
+66|axial
+66|axial
+66|axial
+3|ap
+66|axial
+66|axial
+50|coronal
+66|axial
+61|sagittal
+66|axial
+66|axial
+21|pa
+61|sagittal
+61|sagittal
+66|axial
+66|axial
+66|axial
+66|axial
+66|axial
+66|axial
+48|mammo - mlo
+0|lateral
+61|sagittal
+50|coronal
+0|lateral
+66|axial
+0|lateral
+3|ap
+61|sagittal
+66|axial
+66|axial
+61|sagittal
+66|axial
+66|axial
+61|sagittal
+66|axial
+66|axial
+66|axial
+66|axial
+50|coronal
+61|sagittal
+49|frontal
+50|coronal
+50|coronal
+3|ap
+50|coronal
+66|axial
+66|axial
+66|axial
+66|axial
+61|sagittal
+66|axial
+0|lateral
+0|lateral
+49|frontal
+50|coronal
+0|lateral
+50|coronal
+66|axial
+66|axial
+61|sagittal
+66|axial
+66|axial
+49|frontal
+66|axial
+66|axial
+66|axial
+66|axial
+3|ap
+50|coronal
+50|coronal
+66|axial
+50|coronal
+61|sagittal
+0|lateral
+66|axial
+3|ap
+61|sagittal
+66|axial
+66|axial
+3|ap
+3|ap
+66|axial
+66|axial
+3|ap
+66|axial
+66|axial
+66|axial
+66|axial
+10|longitudinal
+50|coronal
+66|axial
+49|frontal
+21|pa
+66|axial
+66|axial
+21|pa
+66|axial
+66|axial
+66|axial
+66|axial
+59|3d reconstruction
+66|axial
+66|axial
+66|axial
+61|sagittal
+66|axial
+66|axial
+66|axial
+49|frontal
+3|ap
+66|axial
+61|sagittal
+66|axial
+66|axial
+66|axial
+50|coronal
+50|coronal
+61|sagittal
+50|coronal
+3|ap
+66|axial
+61|sagittal
+66|axial
+3|ap
+66|axial
+66|axial
+21|pa
+61|sagittal
+61|sagittal
+66|axial
+50|coronal
+66|axial
+50|coronal
+66|axial
+66|axial
+66|axial
+61|sagittal
+66|axial
+66|axial
+66|axial
+16|oblique
+0|lateral
+61|sagittal
+49|frontal
+66|axial
+0|lateral
+21|pa
+48|mammo - mlo
+12|transverse
+3|ap
+61|sagittal
+66|axial
+66|axial
+66|axial
+66|axial
+66|axial
+66|axial
+66|axial
+66|axial
+66|axial
+21|pa
+66|axial
+50|coronal
+66|axial
+66|axial
+50|coronal
+61|sagittal
+61|sagittal
+66|axial
+66|axial
+10|longitudinal
+50|coronal
+66|axial
+61|sagittal
+50|coronal
+50|coronal
+66|axial
+3|ap
+3|ap
+66|axial
+50|coronal
+61|sagittal
+66|axial
+61|sagittal
+66|axial
+12|transverse
+66|axial
+66|axial
+61|sagittal
+66|axial
+66|axial
+21|pa
+61|sagittal
+66|axial
+3|ap
+16|oblique
+66|axial
+50|coronal
+3|ap
+21|pa
+66|axial
+66|axial
+66|axial
+66|axial
+3|ap
+61|sagittal
+61|sagittal
+61|sagittal
+66|axial
+66|axial
+66|axial
+66|axial
+66|axial
+3|ap
+61|sagittal
+66|axial
+3|ap
+66|axial
+21|pa
+47|mammo - cc
+3|ap
+10|longitudinal
+61|sagittal
+66|axial
+66|axial
+66|axial
+66|axial
+66|axial
+50|coronal
+61|sagittal
+66|axial
+3|ap
+3|ap
+50|coronal
+21|pa
+50|coronal
+3|ap
+49|frontal
+61|sagittal
+66|axial
+66|axial
+49|frontal
+3|ap
+49|frontal
+21|pa
+66|axial
+61|sagittal
+66|axial
+66|axial
+66|axial
+21|pa
+0|lateral
+50|coronal
+66|axial
+66|axial
+66|axial
+66|axial
+66|axial
+61|sagittal
+50|coronal
+3|ap
+66|axial
+61|sagittal
+66|axial
+66|axial
+66|axial
+61|sagittal
+66|axial
+50|coronal
+3|ap
+48|mammo - mlo
+49|frontal
+66|axial
+50|coronal
+61|sagittal
+0|lateral
+61|sagittal
+61|sagittal
+0|lateral
+66|axial
+3|ap
+50|coronal
+61|sagittal
+61|sagittal
+50|coronal
+66|axial
+50|coronal
+0|lateral
+66|axial
+66|axial
+66|axial
+66|axial
+66|axial
+50|coronal
+66|axial
+66|axial
+61|sagittal
+21|pa
+61|sagittal
+61|sagittal
+21|pa
+66|axial
+66|axial
+61|sagittal
+21|pa
+66|axial
+66|axial
+50|coronal
+50|coronal
+66|axial
+3|ap
+66|axial
+3|ap
+66|axial
+66|axial
+49|frontal
+59|3d reconstruction
+66|axial
+21|pa
+66|axial
+66|axial
+0|lateral
+50|coronal
+66|axial
+3|ap
+66|axial
+66|axial
+66|axial
+66|axial
+49|frontal
+12|transverse
+61|sagittal
+16|oblique
+49|frontal
+66|axial
+50|coronal
+0|lateral
+66|axial
+66|axial
+66|axial
+3|ap
+66|axial
+66|axial
+61|sagittal
+61|sagittal
+12|transverse
+66|axial
+61|sagittal
+61|sagittal
+66|axial
+66|axial
+3|ap
+48|mammo - mlo
+61|sagittal
+66|axial
+66|axial
+66|axial
+66|axial
+0|lateral
+49|frontal
+49|frontal
+50|coronal
+66|axial
+66|axial
+66|axial
+66|axial
+66|axial
+66|axial
+61|sagittal
+66|axial
+66|axial
+66|axial
+0|lateral
+61|sagittal
+50|coronal
+0|lateral
+66|axial
+61|sagittal
+61|sagittal
+50|coronal
+0|lateral
+66|axial
+3|ap
+48|mammo - mlo
+66|axial
+66|axial
+66|axial
+66|axial
+50|coronal
+66|axial
+61|sagittal
+66|axial
+50|coronal
+3|ap
+0|lateral
+66|axial
+66|axial
+50|coronal
+66|axial
+66|axial
+66|axial
+50|coronal
+66|axial
+66|axial
+66|axial
+50|coronal
+66|axial
+66|axial
+21|pa
+66|axial
+49|frontal
+61|sagittal
+66|axial
+61|sagittal
+0|lateral
+66|axial
+61|sagittal
+66|axial
+61|sagittal
+66|axial
+61|sagittal
+61|sagittal
+21|pa
+66|axial
+66|axial
+61|sagittal
+49|frontal
+50|coronal
+61|sagittal
+61|sagittal
+56|face, sinuses, and neck
+26|lung, mediastinum, pleura
+54|breast
+6|musculoskeletal
+38|heart and great vessels
+9|genitourinary
+6|musculoskeletal
+35|skull and contents
+38|heart and great vessels
+35|skull and contents
+7|gastrointestinal
+35|skull and contents
+26|lung, mediastinum, pleura
+7|gastrointestinal
+35|skull and contents
+35|skull and contents
+7|gastrointestinal
+6|musculoskeletal
+6|musculoskeletal
+26|lung, mediastinum, pleura
+35|skull and contents
+6|musculoskeletal
+35|skull and contents
+6|musculoskeletal
+35|skull and contents
+6|musculoskeletal
+7|gastrointestinal
+35|skull and contents
+9|genitourinary
+7|gastrointestinal
+54|breast
+38|heart and great vessels
+56|face, sinuses, and neck
+9|genitourinary
+35|skull and contents
+6|musculoskeletal
+6|musculoskeletal
+6|musculoskeletal
+56|face, sinuses, and neck
+35|skull and contents
+6|musculoskeletal
+56|face, sinuses, and neck
+64|spine and contents
+26|lung, mediastinum, pleura
+7|gastrointestinal
+6|musculoskeletal
+7|gastrointestinal
+9|genitourinary
+64|spine and contents
+6|musculoskeletal
+7|gastrointestinal
+6|musculoskeletal
+7|gastrointestinal
+7|gastrointestinal
+38|heart and great vessels
+9|genitourinary
+35|skull and contents
+64|spine and contents
+7|gastrointestinal
+9|genitourinary
+6|musculoskeletal
+64|spine and contents
+35|skull and contents
+35|skull and contents
+7|gastrointestinal
+64|spine and contents
+35|skull and contents
+35|skull and contents
+26|lung, mediastinum, pleura
+35|skull and contents
+35|skull and contents
+35|skull and contents
+6|musculoskeletal
+26|lung, mediastinum, pleura
+63|vascular and lymphatic
+35|skull and contents
+54|breast
+35|skull and contents
+56|face, sinuses, and neck
+35|skull and contents
+54|breast
+35|skull and contents
+35|skull and contents
+9|genitourinary
+35|skull and contents
+64|spine and contents
+6|musculoskeletal
+38|heart and great vessels
+35|skull and contents
+54|breast
+6|musculoskeletal
+6|musculoskeletal
+56|face, sinuses, and neck
+6|musculoskeletal
+35|skull and contents
+26|lung, mediastinum, pleura
+6|musculoskeletal
+35|skull and contents
+7|gastrointestinal
+56|face, sinuses, and neck
+38|heart and great vessels
+64|spine and contents
+38|heart and great vessels
+64|spine and contents
+7|gastrointestinal
+35|skull and contents
+35|skull and contents
+35|skull and contents
+9|genitourinary
+63|vascular and lymphatic
+26|lung, mediastinum, pleura
+35|skull and contents
+35|skull and contents
+6|musculoskeletal
+9|genitourinary
+64|spine and contents
+6|musculoskeletal
+35|skull and contents
+35|skull and contents
+6|musculoskeletal
+7|gastrointestinal
+6|musculoskeletal
+6|musculoskeletal
+7|gastrointestinal
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+64|spine and contents
+35|skull and contents
+9|genitourinary
+6|musculoskeletal
+35|skull and contents
+26|lung, mediastinum, pleura
+26|lung, mediastinum, pleura
+7|gastrointestinal
+63|vascular and lymphatic
+56|face, sinuses, and neck
+35|skull and contents
+26|lung, mediastinum, pleura
+6|musculoskeletal
+35|skull and contents
+26|lung, mediastinum, pleura
+35|skull and contents
+64|spine and contents
+64|spine and contents
+64|spine and contents
+26|lung, mediastinum, pleura
+63|vascular and lymphatic
+64|spine and contents
+9|genitourinary
+35|skull and contents
+6|musculoskeletal
+63|vascular and lymphatic
+35|skull and contents
+7|gastrointestinal
+9|genitourinary
+9|genitourinary
+35|skull and contents
+35|skull and contents
+38|heart and great vessels
+7|gastrointestinal
+9|genitourinary
+6|musculoskeletal
+26|lung, mediastinum, pleura
+56|face, sinuses, and neck
+9|genitourinary
+38|heart and great vessels
+35|skull and contents
+35|skull and contents
+35|skull and contents
+56|face, sinuses, and neck
+35|skull and contents
+64|spine and contents
+38|heart and great vessels
+7|gastrointestinal
+35|skull and contents
+9|genitourinary
+26|lung, mediastinum, pleura
+56|face, sinuses, and neck
+35|skull and contents
+35|skull and contents
+26|lung, mediastinum, pleura
+56|face, sinuses, and neck
+63|vascular and lymphatic
+64|spine and contents
+35|skull and contents
+35|skull and contents
+6|musculoskeletal
+7|gastrointestinal
+35|skull and contents
+35|skull and contents
+6|musculoskeletal
+7|gastrointestinal
+35|skull and contents
+6|musculoskeletal
+6|musculoskeletal
+7|gastrointestinal
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+26|lung, mediastinum, pleura
+64|spine and contents
+64|spine and contents
+63|vascular and lymphatic
+6|musculoskeletal
+64|spine and contents
+35|skull and contents
+7|gastrointestinal
+38|heart and great vessels
+6|musculoskeletal
+38|heart and great vessels
+54|breast
+9|genitourinary
+6|musculoskeletal
+6|musculoskeletal
+63|vascular and lymphatic
+35|skull and contents
+7|gastrointestinal
+35|skull and contents
+35|skull and contents
+9|genitourinary
+35|skull and contents
+63|vascular and lymphatic
+35|skull and contents
+38|heart and great vessels
+35|skull and contents
+6|musculoskeletal
+63|vascular and lymphatic
+35|skull and contents
+6|musculoskeletal
+64|spine and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+9|genitourinary
+35|skull and contents
+35|skull and contents
+6|musculoskeletal
+35|skull and contents
+35|skull and contents
+35|skull and contents
+7|gastrointestinal
+6|musculoskeletal
+6|musculoskeletal
+35|skull and contents
+64|spine and contents
+35|skull and contents
+7|gastrointestinal
+35|skull and contents
+9|genitourinary
+6|musculoskeletal
+9|genitourinary
+9|genitourinary
+35|skull and contents
+7|gastrointestinal
+26|lung, mediastinum, pleura
+9|genitourinary
+35|skull and contents
+6|musculoskeletal
+63|vascular and lymphatic
+9|genitourinary
+35|skull and contents
+6|musculoskeletal
+26|lung, mediastinum, pleura
+56|face, sinuses, and neck
+7|gastrointestinal
+56|face, sinuses, and neck
+56|face, sinuses, and neck
+6|musculoskeletal
+64|spine and contents
+56|face, sinuses, and neck
+6|musculoskeletal
+6|musculoskeletal
+35|skull and contents
+35|skull and contents
+26|lung, mediastinum, pleura
+9|genitourinary
+6|musculoskeletal
+64|spine and contents
+38|heart and great vessels
+63|vascular and lymphatic
+35|skull and contents
+26|lung, mediastinum, pleura
+54|breast
+63|vascular and lymphatic
+9|genitourinary
+64|spine and contents
+56|face, sinuses, and neck
+6|musculoskeletal
+7|gastrointestinal
+7|gastrointestinal
+35|skull and contents
+35|skull and contents
+35|skull and contents
+9|genitourinary
+6|musculoskeletal
+6|musculoskeletal
+38|heart and great vessels
+7|gastrointestinal
+56|face, sinuses, and neck
+63|vascular and lymphatic
+7|gastrointestinal
+35|skull and contents
+38|heart and great vessels
+26|lung, mediastinum, pleura
+26|lung, mediastinum, pleura
+35|skull and contents
+7|gastrointestinal
+6|musculoskeletal
+38|heart and great vessels
+64|spine and contents
+26|lung, mediastinum, pleura
+35|skull and contents
+56|face, sinuses, and neck
+26|lung, mediastinum, pleura
+54|breast
+35|skull and contents
+7|gastrointestinal
+35|skull and contents
+35|skull and contents
+9|genitourinary
+26|lung, mediastinum, pleura
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+7|gastrointestinal
+35|skull and contents
+26|lung, mediastinum, pleura
+6|musculoskeletal
+35|skull and contents
+35|skull and contents
+9|genitourinary
+54|breast
+7|gastrointestinal
+6|musculoskeletal
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+6|musculoskeletal
+35|skull and contents
+6|musculoskeletal
+35|skull and contents
+6|musculoskeletal
+35|skull and contents
+6|musculoskeletal
+6|musculoskeletal
+35|skull and contents
+6|musculoskeletal
+7|gastrointestinal
+35|skull and contents
+35|skull and contents
+35|skull and contents
+64|spine and contents
+35|skull and contents
+9|genitourinary
+38|heart and great vessels
+35|skull and contents
+6|musculoskeletal
+26|lung, mediastinum, pleura
+35|skull and contents
+63|vascular and lymphatic
+64|spine and contents
+26|lung, mediastinum, pleura
+56|face, sinuses, and neck
+54|breast
+35|skull and contents
+35|skull and contents
+35|skull and contents
+6|musculoskeletal
+56|face, sinuses, and neck
+6|musculoskeletal
+35|skull and contents
+7|gastrointestinal
+26|lung, mediastinum, pleura
+6|musculoskeletal
+26|lung, mediastinum, pleura
+26|lung, mediastinum, pleura
+35|skull and contents
+7|gastrointestinal
+7|gastrointestinal
+35|skull and contents
+35|skull and contents
+6|musculoskeletal
+35|skull and contents
+64|spine and contents
+35|skull and contents
+35|skull and contents
+6|musculoskeletal
+9|genitourinary
+35|skull and contents
+7|gastrointestinal
+9|genitourinary
+7|gastrointestinal
+35|skull and contents
+26|lung, mediastinum, pleura
+35|skull and contents
+35|skull and contents
+6|musculoskeletal
+7|gastrointestinal
+9|genitourinary
+35|skull and contents
+64|spine and contents
+35|skull and contents
+6|musculoskeletal
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+7|gastrointestinal
+54|breast
+9|genitourinary
+6|musculoskeletal
+6|musculoskeletal
+35|skull and contents
+64|spine and contents
+26|lung, mediastinum, pleura
+6|musculoskeletal
+6|musculoskeletal
+35|skull and contents
+6|musculoskeletal
+6|musculoskeletal
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+6|musculoskeletal
+7|gastrointestinal
+6|musculoskeletal
+64|spine and contents
+9|genitourinary
+35|skull and contents
+26|lung, mediastinum, pleura
+6|musculoskeletal
+35|skull and contents
+35|skull and contents
+64|spine and contents
+35|skull and contents
+26|lung, mediastinum, pleura
+35|skull and contents
+35|skull and contents
+54|breast
+7|gastrointestinal
+35|skull and contents
+56|face, sinuses, and neck
+35|skull and contents
+6|musculoskeletal
+26|lung, mediastinum, pleura
+35|skull and contents
+35|skull and contents
+6|musculoskeletal
+64|spine and contents
+64|spine and contents
+35|skull and contents
+26|lung, mediastinum, pleura
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+64|spine and contents
+7|gastrointestinal
+35|skull and contents
+9|genitourinary
+26|lung, mediastinum, pleura
+7|gastrointestinal
+56|face, sinuses, and neck
+26|lung, mediastinum, pleura
+35|skull and contents
+7|gastrointestinal
+64|spine and contents
+35|skull and contents
+35|skull and contents
+6|musculoskeletal
+35|skull and contents
+35|skull and contents
+35|skull and contents
+35|skull and contents
+7|gastrointestinal
+64|spine and contents
+35|skull and contents
+26|lung, mediastinum, pleura
+35|skull and contents
+64|spine and contents
+35|skull and contents
+6|musculoskeletal
+35|skull and contents
+35|skull and contents
+64|spine and contents
+8|osteosarcoma
+52|no
+52|no
+38|biliary mesenteric
+52|yes
+52|yes
+44|hepatic pulmonary
+52|no
+26|fibrous pneumonia
+52|no
+66|pancreatic
+52|no
+52|no
+66|aneurysm s
+20|pneumomediastinum fracture
+61|fibro osseous s cave
+66|abdominal kidney
+25|yes
+25|no
+52|yes
+4|meningioma
+25|yes
+4|cerebellar hemangioblastoma
+25|no
+19|colloid neuroepithelial astrocytoma of
+25|yes
+10|yes
+43|meningioma multiforme
+41|cerebral osteoma
+25|yes
+9|aortic tumor carcinoma
+19|yes
+35|blowout fracture
+25|yes
+35|no
+9|atrial
+6|adenocarcinoma cell potts
+6|complete cell of ligament tear
+56|hepatic
+43|brain brain disease anoxia
+25|esophageal of dislocation
+66|neurofibromatosis cancer
+0|osteogenesis
+25|lung pneumonia
+6|nephrolithiasis
+19|sickle bone
+25|intussusception hernia disease
+60|adpkd carcinoma
+46|synovial
+25|hydroxyapatite s deposition s
+25|ewing s vena
+25|acute of of the distal tibia
+13|zenker
+66|oropharyngeal
+44|intraventricular superior s
+41|adrenal mass of
+43|neurocytoma central
+46|synovial cyst the
+13|diffuse esophageal
+9|choledocholithiasis
+25|acute s
+13|lumbar  xanthoastrocytoma
+32|brain
+54|intracranial dysplasia
+66|hodgkin
+64|cspine facet dislocation the on c6c7
+35|colloid astrocytoma
+20|progression of
+9|traumatic abscess
+66|ependymoma cyst
+35|subcutaneous brain of the subarachnoid
+35|bilateral s
+35|multiple
+26|azygous thromboembolism
+35|jefferson
+35|langerhans lymphomatosis
+66|mca territory infarction
+19|hunter glioma
+66|schwannoma
+35|orbital
+28|twinkle cavernous
+61|colloid cyst
+35|vestibular grading
+16|celiac
+23|acute disseminated
+25|chronic fracture
+12|right cord
+38|pulmonary syndrome
+52|no
+48|lhermitte
+25|simple fracture cyst with coronoid and
+6|complete anterior cruciate ligament tear
+50|anaplastic cell
+25|multiple fracture
+66|acute multiple
+25|right
+25|multiple stress obstruction femoral
+46|meningioma
+9|tophaceous mass dominant polycystic
+58|cholesterol
+54|odontoid osteosarcoma
+49|brain tumor odontoma cancer protocols
+38|aortic nipple
+46|ewing s
+23|gastric artery
+66|rosette brain
+35|brain artery bcell
+35|hyperdense middle
+60|choroid
+64|cord cyst with secondary atrophy
+25|pediatric pneumonia round pneumonia
+55|fibrous dysplasia
+4|fibrous cyst
+25|osteochondritis pyrophosphate
+25|duplicated
+64|arteriovenous
+64|amyand s
+35|dural astrocytoma
+35|tuberous sclerosis
+4|plantar
+66|craniopharyngioma syndrome
+25|multiple
+25|calcium
+41|diverticulitis aortic
+35|intraventricular carcinomatosis
+20|postoperative malformation avm
+64|hypoplastic
+43|meningioma
+66|hepatic
+50|mucus injury dislocation
+66|carbon s sarcoid
+18|diverticulitis disease
+25|radial
+42|brain callosum central anterior
+42|pulmonary allergic cell histiocytosis
+43|intestinal
+66|left adenocarcinoma carcinoma cava
+17|macrodystrophia salterharris
+5|intracranial
+12|chronic adenoma
+38|vertebral lipomatosis
+6|anaplastic
+61|fibro
+25|hydropneumothorax
+35|meningioma cap abscess anoxia of wall
+25|ankylosing spondylitis
+46|tethered spinal cord with terminal spinal
+43|pulmonary
+9|desmoplastic
+35|angiomyolipoma
+25|ankylosing spondylitis
+25|femoral syndrome
+66|brain cerebral of
+25|gout
+43|schwannoma cystic
+35|optic brain of
+4|portal renal
+23|duplicated renal carcinoma
+60|subchorionic cholecystitis
+35|meningioma cell
+9|cavernous
+25|esophageal pneumonia
+13|cricopharyngeal dysplasia
+14|pseudoarthrosis cell
+64|aortic dissection
+25|nonspecific guided
+38|langerhans cyst
+63|renal
+66|compound
+35|subependymoma lateral
+25|renal tumor
+66|arachnoid
+56|right
+35|paradoxic embolization patent foramen ovale cerebral
+20|spinal nf1
+66|hemiazygous arteritis pulmonary
+38|horseshoe disease
+66|neurosarcoid lipoma
+25|traumatic cell cyst
+25|omphalocele
+49|opll and
+35|cocaine brain packer epidermoid inclusion
+66|central
+4|arachnoid cyst the
+43|pleomorphic
+50|odontoid idiopathic
+17|cspine vehicle
+66|meningioma lowgrade who
+32|meningioma sclerosis
+25|osteomyelitis dysplasia
+66|metastatic
+61|glioblastoma
+66|oculoauriculovertebral
+25|asthma and
+9|benign
+54|cerebellar cerebral
+25|adenocarcinoma stress dislocation
+9|celiac
+12|wilms’
+56|brain sclerosis
+35|brain sclerosis
+64|schwannoma and at
+46|cavernous
+25|neuroblastoma of
+9|arteriovenous malformation and
+42|carotid subacute
+26|adenomyosis of
+64|diastematomyelia of
+33|langerhans
+42|meningioma cell
+25|hydroxyapatite perilunate
+25|persistent arthritis
+55|cerebral infarction
+25|intussusception enterocolitis
+38|left pulmonary
+25|spiral salterharris
+25|adenocarcinoma of the the
+25|infiltrating granulomas carcinoma
+12|testicular malformation
+25|psoriatic
+9|empyema of
+43|hemangioblastoma
+35|oligodendroglioma infarct and
+41|primary
+56|hypothalamic glioma
+66|meningioma
+66|hereditary s
+35|paradoxic neuroepithelial basal ganglia hypertensive acute
+44|pancreatic
+58|meningioma tumefactive
+38|adenocarcinoma hernia
+35|intracranial neuroepithelial cyst
+17|epidermoid abscess
+9|gastrointestinal hemangioma
+66|pituitary infarction gbm
+6|tethered s disease
+20|arnold–chiari malformation i
+20|intracranial fracture
+35|posterior cns
+35|brain
+60|hypertrophic
+35|cavernous
+35|intracranial cerebral histiocytosis
+6|fibrous fracture
+35|cavernous sclerosis
+35|cavernous adenoma
+9|choroid
+25|esophageal urogenital secondary with prostate cancer
+25|osteochondritis dissecans disease
+32|schwannoma  xanthoastrocytoma
+43|parasellar cancer sarcoid
+64|cord s astrocytoma
+66|diffuse adenocarcinoma edema
+60|rickets matrix
+43|intraventricular hematoma
+60|colloid
+32|orbital cell
+41|renal adenocarcinoma infarct
+60|gastroschisis
+35|multiple cyst
+66|hepatocellular syndrome thrombosis
+25|asbestos pleural venous
+9|gallbladder polyp
+46|brain cyst
+25|osteomyelitis fracture disease infarct
+31|fibromuscular cyst
+66|giant hernia
+35|colloid sclerosis cyst
+25|thyroid acropachy bennett fracture fracture 2
+38|papillary aneurysm
+35|cerebellar
+41|segmental disease
+46|leptomeningeal neuroepithelial
+66|meningioma
+6|no
+32|diffuse large cell of
+19|right vertebral artery dissection lateral medullary
+32|buckethandle tear
+66|glioblastoma hemangioma and of protocols
+46|tuberous s disease
+35|developmental
+41|nephrolithiasis effusion
+66|traumatic appendicitis ectopia
+25|scapholunate
+46|ependymoma disseminated encephalomyelitis adem
+66|pulmonary
+62|takayasu angiomyolipoma arteritis
+62|osteochondroma tendon
+25|tetralogy right fallot
+47|invasive
+25|pneumoperitoneum
+60|deep
+64|chancetype fracture
+66|no
+12|ureteral
+23|hepatic stromal tumor gist
+38|acute aortic
+35|subependymoma lateral ventricle
+50|glioblastoma
+32|acute
+44|renal
+25|mallet finger
+25|scfe stress fatigue fracture
+9|basilar sclerosis
+25|omphalocele
+42|fibrous dysplasia
+35|acute
+16|bronchial carcinoid for
+19|chiari
+9|hemiazygous and azygous continuation the the
+43|thymic embolism
+25|pcp pleural pneumocystis jiroveci pneumonia
+62|dural  fistula avf
+13|diffuse esophageal
+9|bronchial s
+26|anterior sclerosing hodgkin’s
+61|tuberous venous longitudinal
+42|azygous
+66|brain cyst infarction
+17|epidural of
+25|nonspecific granulomatosis
+25|avascular necrosis
+23|left cyst
+66|hepatocellular hemangioma
+35|brain disseminated encephalomyelitis
+20|acute middle
+41|angiomyolipoma
+42|hypertrophic cyst
+19|diffuse spinal
+6|blowout fracture of orbit
+62|dural granulomatosis arteriovenous fistula
+66|moyamoya
+4|meningioma
+66|schwannoma hemangioma
+54|benign enlargement
+26|histoplasmosis
+64|citrobacter dysgenesis with of atrophy
+17|facial hemangioma
+35|pituitary of
+50|no
+60|invasive mucinous
+36|necrotizing
+6|osteoid
+23|aminoaciduria
+43|adamantinomatous central
+62|arteriovenous malformation avm artery intracranial level
+60|hypertrophic plexus astrocytoma kidney
+19|fibro
+62|multiple aneurysm
+64|sarcoidosis process
+25|adenocarcinoma
+35|neurofibromatosis type gram
+9|pyonephrosis secondary to renal failure
+1|cerebellar i
+6|ewing coalition fracture
+66|oligodendroglioma
+13|osteomyelitis lymphoma disease
+25|thyroid disease
+66|malignant peripheral
+38|odontoid stress fracture
+42|pancreatic nodular
+20|brain pyogenic and extension
+35|anaplastic sclerosis
+54|dehiscent diverticulosis
+64|lumbar herniated disc
+35|cavernoma venous sclerosis artery
+12|peritoneal carcinoma
+38|cardiogenic inflammatory edema – chf exacerbation
+29|aneurysm cerebral avf
+20|complete and
+25|left pneumonia
+42|meningioma abscess abscess
+66|incidental abscess
+6|epidural
+25|nonspecific bowel round sarcoidosis
+66|osteosarcoma
+25|hodgkin thymus
+35|cavernous angioma astrocytoma lymphoma
+46|glioblastoma metastasis with lymphoma
+66|carbon cyst poisoning brain injury cyst
+13|posterior
+25|langerhan
+25|leggcalveperthes arthritis
+52|nontraumatic  hemangioma hemorrhage contusion
+66|diverticulitis
+25|pediatric
+59|pulmonary
+4|adenocarcinoma s infarction aorta of
+26|sarcoidosis of the
+35|brain
+9|diverticulitis adenocarcinoma
+44|primary dysplasia
+46|ewing
+35|intravascular
+25|rickets
+66|acute astrocytoma
+54|osteochondroma malformation
+35|avm arteriovenous malformation vascular malformation
+23|brain cell
+25|renal left of
+60|acute adenoma in
+61|cerebral dysplasia
+29|duodenal
+29|incorrect pseudoaneurysm
+66|duplicated vein of
+55|cerebral dysplasia
+25|pulmonary stromal malformation middle aortic
+35|brain embolization
+53|cavernous embolization
+46|fibrous herniated
+25|diverticulitis
+34|portal s
+35|developmental venous anomaly dva or venous
+64|disc infarct with secondary atrophy
+32|pontine tumor melanoma
+60|testicular
+43|desmoplastic
+43|chondrosarcoma cyst
+61|cerebral i
+42|meningioma
+54|meningioma
+53|grenade spondylitis discitis in and foramina
+48|breast and carcinoma
+60|uterine leiomyoma
+16|avascular
+23|primary nodular hyperplasia
+17|optic neuritis cell
+66|left nerve
+25|ewing hamartoma
+25|multiple pediatric
+16|microcoil embolization of a lower gastrointestinal
+35|meningioma radiation
+6|acute
+6|complete cell
+66|multiple cyst dissection
+19|meningioma sclerosis
+43|orbital
+23|developmental multiple sclerosis ganglia
+60|invasive coli
+41|celiac stone perinephric
+32|transitional
+12|cervical nerve root avulsion
+25|atrial cell
+20|chordoid of
+64|brain s
+25|occult
+56|meningioma cyst
+32|dermoid neurocytoma
+64|cord posterior
+23|dermoid cyst of
+25|squamous aneurysm
+4|dural pilocytic
+62|takayasu internal arteritis
+9|pneumothorax lobular carcinoma
+66|iatrogenic fused
+58|vestibular hemorrhage
+66|retinoblastoma sac central
+20|chronic
+17|meningioma
+66|hemiazygous embolism azygous continuation
+4|neurosarcoid
+35|intracranial
+50|osteoid
+25|scheuermann kyphosis
+25|ruptured
+56|brain abscess from transverse
+18|osteoid dysplasia
+35|ependymoma astrocytoma
+35|acute  fistula venous sinus thrombosis
+66|carbon subarachnoid hemorrhage contusion
+62|aneurysm cerebral
+11|epidermoid s fracture
+66|hepatic adenoma
+35|carotid
+66|abdominal cholecystitis
+63|adenocarcinoma of the esophagus
+63|acute mediastinal
+56|pituitary
+25|hydropneumothorax excavatum pneumomediastinum
+1|cranial osteomyelitis abscess
+13|diffuse
+17|cspine
+62|cerebral arteriovenous malformation vascular malformation
+4|dilated
+25|rheumatoid fracture
+46|pineal intracranial encephalopathy
+1|chondrosarcoma
+42|posterior cerebral
+1|chondrosarcoma
+12|hepatic hemangioma
+9|glomus multiple
+1|chiari cyst with
+25|subclavian pleural venous pneumonia
+43|meningioma
+7|ependymoma epidural cell
+35|pituitary
+25|osteochondritis head fracture cppd
+35|tuberous
+56|ependymal cyst
+64|citrobacter terminalis

@@ -1,0 +1,511 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"input",
+				"input_for_ans_lstm"
+			],
+			[
+				"all_bleu",
+				"all_bleu_with_sw"
+			],
+			[
+				"comput",
+				"compute_bleu"
+			],
+			[
+				"torch",
+				"torchvision"
+			],
+			[
+				"VQAdA",
+				"VQADataProvider"
+			],
+			[
+				"class",
+				"classification"
+			],
+			[
+				"VQAda",
+				"VQADataProvider"
+			],
+			[
+				"VQADATA",
+				"VQADataProvider"
+			],
+			[
+				"VQADA",
+				"VQADataProvider"
+			],
+			[
+				"answe",
+				"answer_vocab"
+			],
+			[
+				"val_ques",
+				"val_ques_matrix"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "utils/data_provider.py",
+			"settings":
+			{
+				"buffer_size": 10021,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.py",
+			"settings":
+			{
+				"buffer_size": 3982,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "train.py",
+			"settings":
+			{
+				"buffer_size": 4801,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "utils/validate.py",
+			"settings":
+			{
+				"buffer_size": 7129,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/coatt_model.py",
+			"settings":
+			{
+				"buffer_size": 13880,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/coatt_model_lstm.py",
+			"settings":
+			{
+				"buffer_size": 14713,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/leishi/Desktop/Internship/vqa2019",
+		"/Users/leishi/Desktop/Internship/vqa2019/models",
+		"/Users/leishi/Desktop/Internship/vqa2019/models/pretrained",
+		"/Users/leishi/Desktop/Internship/vqa2019/results",
+		"/Users/leishi/Desktop/Internship/vqa2019/tune_imgnet",
+		"/Users/leishi/Desktop/Internship/vqa2019/utils"
+	],
+	"file_history":
+	[
+		"/Users/leishi/Desktop/Internship/vqa2019/tune_imgnet/fine_tune_imgnet.py",
+		"/Users/leishi/Desktop/Internship/vqa2019/utils/validate.py",
+		"/Users/leishi/Desktop/Internship/vqa2019/tune_imgnet/tuneDataset.py",
+		"/Users/leishi/Desktop/Internship/vqa2019/utils/mapping_category.py",
+		"/Users/leishi/Desktop/Internship/vqa2019/TopicModel/pre_for_ETM.py",
+		"/Users/leishi/Desktop/Internship/vqa2019/data_explore.py",
+		"/Users/leishi/Desktop/Internship/vqa2019/TopicModel/create_img_etm_for_tune.py",
+		"/Users/leishi/Desktop/Internship/vqa2019/predict_test.py",
+		"/Users/leishi/Desktop/Internship/vqa2019/models/question_classifier.py",
+		"/Users/leishi/Desktop/Internship/vqa2019/train_with_train_val.py",
+		"/Users/leishi/Desktop/Internship/vqa2019/utils/make_vocabulary.py",
+		"/Users/leishi/Desktop/Internship/vqa2019/models/coatt_model.py",
+		"/Users/leishi/Desktop/Internship/vqa2019/TopicModel/question_etm.py",
+		"/Users/leishi/Desktop/Internship/vqa2019/TopicModel/MyModels/ETM.java",
+		"/Users/leishi/Desktop/Internship/vqa2019/train_single_classifier.py",
+		"/Users/leishi/Desktop/Internship/vqa2019/utils/data_provider.py",
+		"/Users/leishi/Desktop/Internship/vqa2019/models/config.py",
+		"/Users/leishi/Documents/DS504/project2/src/static/data/station_locations_2019_for_mapping.csv",
+		"/Users/leishi/Documents/DS504/divvy_algorithm/evaluate.py",
+		"/Users/leishi/Documents/DS504/project2/src/path/templates/path/page.html",
+		"/Users/leishi/Documents/DS504/project2/src/path/templates/page.html",
+		"/Users/leishi/Documents/DS504/project2/src/path/algorithm/__init__.py",
+		"/Users/leishi/Documents/DS504/project2/src/divvy/settings.py",
+		"/Users/leishi/Documents/Dev/trydjango/src/trydjango/urls.py",
+		"/Users/leishi/Documents/Dev/trydjango/src/pages/views.py",
+		"/Users/leishi/Documents/Dev/trydjango/src/templates/contact.html",
+		"/Users/leishi/Documents/Dev/trydjango/src/templates/base.html",
+		"/Users/leishi/Documents/Dev/trydjango/src/templates/home.html",
+		"/Users/leishi/Documents/Dev/trydjango/src/trydjango/settings.py",
+		"/Users/leishi/Documents/Dev/trydjango/src/products/admin.py",
+		"/Users/leishi/Documents/Dev/trydjango/src/templates/navbar.html",
+		"/Users/leishi/Documents/Dev/trydjango/src/products/models.py",
+		"/Users/leishi/Documents/Dev/trydjango/src/products/views.py",
+		"/Users/leishi/Documents/Dev/trydjango/src/blog/models.py",
+		"/Users/leishi/Documents/Dev/trydjango/src/products/urls.py",
+		"/Users/leishi/Documents/Dev/trydjango/src/blog/admin.py",
+		"/Users/leishi/Documents/Dev/trydjango/src/blog/views.py",
+		"/Users/leishi/Documents/Dev/trydjango/src/products/forms.py",
+		"/Users/leishi/Documents/Dev/trydjango/src/blog/forms.py",
+		"/Users/leishi/Documents/Dev/trydjango/src/products/templates/products/product_delete.html",
+		"/Users/leishi/Documents/Dev/trydjango/src/products/templates/products/product_list.html",
+		"/Users/leishi/Documents/Dev/trydjango/src/products/templates/products/product_detail.html",
+		"/Users/leishi/Documents/Dev/trydjango/src/products/templates/products/product_create.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"MAX_WORDS_IN_ANSWER",
+			"import string",
+			"train",
+			"val_data",
+			"MED_Word2Vec.txt",
+			"pickle",
+			"ans_producing",
+			"ans_vocab",
+			"save_path",
+			".index",
+			"index",
+			"folder",
+			"map",
+			"vqa",
+			"Linear2_etm_proj",
+			"Classifier",
+			"mfh",
+			"mfh_order",
+			"q_EMB_matrix",
+			"qc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "utils/data_provider.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6258,
+								6258
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2309.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3982,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3338,
+								3338
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "train.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3142,
+								3142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1047.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "utils/validate.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 7129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "models/coatt_model.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1986,
+								2006
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 409.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "models/coatt_model_lstm.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2419,
+								2419
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 297.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

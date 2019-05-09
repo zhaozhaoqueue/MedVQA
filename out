@@ -1,0 +1,2517 @@
+Loading MED Embedding ......
+Done.16545452 words loaded!
+
+1 epoch begins...
+2019-04-27 20:04:41.999713 Train Epoch1: Classification Loss: 191.1503; Producing Loss: 633.2282
+1 epoch ends 
+
+
+2 epoch begins...
+2019-04-27 20:07:34.488560 Train Epoch2: Classification Loss: 173.8445; Producing Loss: 509.8189
+2 epoch ends 
+
+
+3 epoch begins...
+2019-04-27 20:10:28.270916 Train Epoch3: Classification Loss: 138.7495; Producing Loss: 500.0449
+3 epoch ends 
+
+
+4 epoch begins...
+2019-04-27 20:13:22.885211 Train Epoch4: Classification Loss: 132.0010; Producing Loss: 498.7701
+4 epoch ends 
+
+
+5 epoch begins...
+2019-04-27 20:16:16.818672 Train Epoch5: Classification Loss: 122.9343; Producing Loss: 480.9475
+5 epoch ends 
+
+
+6 epoch begins...
+2019-04-27 20:19:10.616736 Train Epoch6: Classification Loss: 114.2486; Producing Loss: 468.1351
+6 epoch ends 
+
+
+7 epoch begins...
+2019-04-27 20:22:04.682008 Train Epoch7: Classification Loss: 108.3040; Producing Loss: 458.3042
+7 epoch ends 
+
+
+8 epoch begins...
+2019-04-27 20:24:58.474929 Train Epoch8: Classification Loss: 100.1335; Producing Loss: 451.1252
+8 epoch ends 
+
+
+9 epoch begins...
+2019-04-27 20:27:51.773672 Train Epoch9: Classification Loss: 95.7535; Producing Loss: 441.1750
+9 epoch ends 
+
+
+10 epoch begins...
+2019-04-27 20:30:45.379773 Train Epoch10: Classification Loss: 90.4639; Producing Loss: 436.5628
+10 epoch ends 
+
+
+11 epoch begins...
+2019-04-27 20:33:40.163204 Train Epoch11: Classification Loss: 87.5937; Producing Loss: 433.4039
+11 epoch ends 
+
+
+12 epoch begins...
+2019-04-27 20:36:33.786022 Train Epoch12: Classification Loss: 86.2856; Producing Loss: 424.4228
+12 epoch ends 
+
+
+13 epoch begins...
+2019-04-27 20:39:27.790218 Train Epoch13: Classification Loss: 83.7564; Producing Loss: 416.7067
+13 epoch ends 
+
+
+14 epoch begins...
+2019-04-27 20:42:20.619755 Train Epoch14: Classification Loss: 79.2237; Producing Loss: 408.0646
+14 epoch ends 
+
+
+15 epoch begins...
+2019-04-27 20:45:14.308900 Train Epoch15: Classification Loss: 78.1966; Producing Loss: 401.4853
+15 epoch ends 
+
+
+16 epoch begins...
+2019-04-27 20:48:07.880717 Train Epoch16: Classification Loss: 76.4081; Producing Loss: 393.4895
+16 epoch ends 
+
+
+17 epoch begins...
+2019-04-27 20:51:01.761489 Train Epoch17: Classification Loss: 73.8693; Producing Loss: 383.6174
+17 epoch ends 
+
+
+18 epoch begins...
+2019-04-27 20:53:56.409610 Train Epoch18: Classification Loss: 75.5251; Producing Loss: 383.8146
+18 epoch ends 
+
+
+19 epoch begins...
+2019-04-27 20:56:51.123818 Train Epoch19: Classification Loss: 73.2436; Producing Loss: 376.2891
+19 epoch ends 
+
+
+20 epoch begins...
+2019-04-27 20:59:45.123362 Train Epoch20: Classification Loss: 72.6591; Producing Loss: 374.5516
+20 epoch ends 
+
+
+21 epoch begins...
+2019-04-27 21:02:38.637740 Train Epoch21: Classification Loss: 71.1338; Producing Loss: 372.7535
+21 epoch ends 
+
+
+22 epoch begins...
+2019-04-27 21:05:32.094462 Train Epoch22: Classification Loss: 76.1156; Producing Loss: 379.4041
+22 epoch ends 
+
+
+23 epoch begins...
+2019-04-27 21:08:25.845217 Train Epoch23: Classification Loss: 70.9785; Producing Loss: 362.5741
+23 epoch ends 
+
+
+24 epoch begins...
+2019-04-27 21:11:18.987445 Train Epoch24: Classification Loss: 69.5117; Producing Loss: 352.9216
+24 epoch ends 
+
+
+25 epoch begins...
+2019-04-27 21:14:12.543728 Train Epoch25: Classification Loss: 67.9674; Producing Loss: 347.0255
+25 epoch ends 
+
+
+26 epoch begins...
+2019-04-27 21:17:06.427035 Train Epoch26: Classification Loss: 69.0617; Producing Loss: 344.2515
+26 epoch ends 
+
+
+27 epoch begins...
+2019-04-27 21:20:00.451381 Train Epoch27: Classification Loss: 67.3323; Producing Loss: 343.5756
+27 epoch ends 
+
+
+28 epoch begins...
+2019-04-27 21:22:54.415717 Train Epoch28: Classification Loss: 68.4551; Producing Loss: 336.1415
+28 epoch ends 
+
+
+29 epoch begins...
+2019-04-27 21:25:48.250594 Train Epoch29: Classification Loss: 68.4744; Producing Loss: 327.8367
+29 epoch ends 
+
+
+30 epoch begins...
+2019-04-27 21:28:42.792575 Train Epoch30: Classification Loss: 70.1828; Producing Loss: 323.2062
+30 epoch ends 
+
+
+31 epoch begins...
+2019-04-27 21:31:36.889158 Train Epoch31: Classification Loss: 67.8841; Producing Loss: 317.8156
+31 epoch ends 
+
+
+32 epoch begins...
+2019-04-27 21:34:30.467764 Train Epoch32: Classification Loss: 66.4931; Producing Loss: 316.5853
+32 epoch ends 
+
+
+33 epoch begins...
+2019-04-27 21:37:23.812316 Train Epoch33: Classification Loss: 65.4042; Producing Loss: 314.3912
+33 epoch ends 
+
+
+34 epoch begins...
+2019-04-27 21:40:18.096304 Train Epoch34: Classification Loss: 65.4602; Producing Loss: 308.3957
+34 epoch ends 
+
+
+35 epoch begins...
+2019-04-27 21:43:11.917526 Train Epoch35: Classification Loss: 64.3720; Producing Loss: 299.8885
+35 epoch ends 
+
+
+36 epoch begins...
+2019-04-27 21:46:04.491406 Train Epoch36: Classification Loss: 64.3891; Producing Loss: 296.8523
+36 epoch ends 
+
+
+37 epoch begins...
+2019-04-27 21:48:57.874670 Train Epoch37: Classification Loss: 62.6978; Producing Loss: 288.7047
+37 epoch ends 
+
+
+38 epoch begins...
+2019-04-27 21:51:50.890819 Train Epoch38: Classification Loss: 62.8098; Producing Loss: 287.3451
+38 epoch ends 
+
+
+39 epoch begins...
+2019-04-27 21:54:43.315828 Train Epoch39: Classification Loss: 63.6286; Producing Loss: 285.6008
+39 epoch ends 
+
+
+40 epoch begins...
+2019-04-27 21:57:37.195435 Train Epoch40: Classification Loss: 63.0336; Producing Loss: 284.6210
+40 epoch ends 
+
+
+41 epoch begins...
+2019-04-27 22:00:30.527336 Train Epoch41: Classification Loss: 61.3149; Producing Loss: 279.2327
+41 epoch ends 
+
+
+42 epoch begins...
+2019-04-27 22:03:23.245433 Train Epoch42: Classification Loss: 60.5351; Producing Loss: 274.1747
+42 epoch ends 
+
+
+43 epoch begins...
+2019-04-27 22:06:17.219107 Train Epoch43: Classification Loss: 59.2179; Producing Loss: 276.5265
+43 epoch ends 
+
+
+44 epoch begins...
+2019-04-27 22:09:10.846109 Train Epoch44: Classification Loss: 58.9969; Producing Loss: 280.4077
+44 epoch ends 
+
+
+45 epoch begins...
+2019-04-27 22:12:03.872046 Train Epoch45: Classification Loss: 58.6337; Producing Loss: 263.7246
+45 epoch ends 
+
+
+46 epoch begins...
+2019-04-27 22:14:57.503970 Train Epoch46: Classification Loss: 59.3463; Producing Loss: 254.5908
+46 epoch ends 
+
+
+47 epoch begins...
+2019-04-27 22:17:52.150820 Train Epoch47: Classification Loss: 58.3630; Producing Loss: 254.3004
+47 epoch ends 
+
+
+48 epoch begins...
+2019-04-27 22:20:45.450441 Train Epoch48: Classification Loss: 58.0155; Producing Loss: 249.6580
+48 epoch ends 
+
+
+49 epoch begins...
+2019-04-27 22:23:37.937931 Train Epoch49: Classification Loss: 58.4159; Producing Loss: 246.9922
+49 epoch ends 
+
+
+50 epoch begins...
+2019-04-27 22:26:31.405783 Train Epoch50: Classification Loss: 59.4935; Producing Loss: 242.0751
+50 epoch ends 
+
+
+51 epoch begins...
+2019-04-27 22:29:25.307055 Train Epoch51: Classification Loss: 57.5899; Producing Loss: 235.5155
+51 epoch ends 
+
+
+52 epoch begins...
+2019-04-27 22:32:19.608001 Train Epoch52: Classification Loss: 55.6539; Producing Loss: 227.1724
+52 epoch ends 
+
+
+53 epoch begins...
+2019-04-27 22:35:14.072537 Train Epoch53: Classification Loss: 54.6640; Producing Loss: 221.0584
+53 epoch ends 
+
+
+54 epoch begins...
+2019-04-27 22:38:07.634509 Train Epoch54: Classification Loss: 53.5463; Producing Loss: 217.2845
+54 epoch ends 
+
+
+55 epoch begins...
+2019-04-27 22:41:01.256998 Train Epoch55: Classification Loss: 53.2994; Producing Loss: 213.1891
+55 epoch ends 
+
+
+56 epoch begins...
+2019-04-27 22:43:54.096107 Train Epoch56: Classification Loss: 53.9476; Producing Loss: 211.6022
+56 epoch ends 
+
+
+57 epoch begins...
+2019-04-27 22:46:47.165006 Train Epoch57: Classification Loss: 53.7085; Producing Loss: 208.5275
+57 epoch ends 
+
+
+58 epoch begins...
+2019-04-27 22:49:39.678429 Train Epoch58: Classification Loss: 51.6192; Producing Loss: 204.8388
+58 epoch ends 
+
+
+59 epoch begins...
+2019-04-27 22:52:33.247538 Train Epoch59: Classification Loss: 51.9450; Producing Loss: 200.1754
+59 epoch ends 
+
+
+60 epoch begins...
+2019-04-27 22:55:27.977649 Train Epoch60: Classification Loss: 51.7635; Producing Loss: 195.8941
+60 epoch ends 
+
+
+61 epoch begins...
+2019-04-27 22:58:22.508894 Train Epoch61: Classification Loss: 51.3223; Producing Loss: 193.7029
+61 epoch ends 
+
+
+62 epoch begins...
+2019-04-27 23:01:15.886757 Train Epoch62: Classification Loss: 51.3241; Producing Loss: 190.9424
+62 epoch ends 
+
+
+63 epoch begins...
+2019-04-27 23:04:09.145472 Train Epoch63: Classification Loss: 50.4361; Producing Loss: 187.2863
+63 epoch ends 
+
+
+64 epoch begins...
+2019-04-27 23:07:02.586586 Train Epoch64: Classification Loss: 49.7602; Producing Loss: 186.4285
+64 epoch ends 
+
+
+65 epoch begins...
+2019-04-27 23:09:57.446452 Train Epoch65: Classification Loss: 49.9533; Producing Loss: 182.6747
+65 epoch ends 
+
+
+66 epoch begins...
+2019-04-27 23:12:51.061285 Train Epoch66: Classification Loss: 49.6563; Producing Loss: 178.4314
+66 epoch ends 
+
+
+67 epoch begins...
+2019-04-27 23:15:43.566825 Train Epoch67: Classification Loss: 49.4345; Producing Loss: 176.9189
+67 epoch ends 
+
+
+68 epoch begins...
+2019-04-27 23:18:36.755421 Train Epoch68: Classification Loss: 49.6820; Producing Loss: 175.1991
+68 epoch ends 
+
+
+69 epoch begins...
+2019-04-27 23:21:29.989433 Train Epoch69: Classification Loss: 48.4770; Producing Loss: 172.1274
+69 epoch ends 
+
+
+70 epoch begins...
+2019-04-27 23:24:25.005801 Train Epoch70: Classification Loss: 48.5910; Producing Loss: 169.6137
+70 epoch ends 
+
+
+71 epoch begins...
+2019-04-27 23:27:18.406961 Train Epoch71: Classification Loss: 47.7114; Producing Loss: 165.8330
+71 epoch ends 
+
+
+72 epoch begins...
+2019-04-27 23:30:12.357298 Train Epoch72: Classification Loss: 48.1979; Producing Loss: 164.2824
+72 epoch ends 
+
+
+73 epoch begins...
+2019-04-27 23:33:05.954107 Train Epoch73: Classification Loss: 47.6636; Producing Loss: 165.0697
+73 epoch ends 
+
+
+74 epoch begins...
+2019-04-27 23:36:00.428300 Train Epoch74: Classification Loss: 47.4301; Producing Loss: 163.6109
+74 epoch ends 
+
+
+75 epoch begins...
+2019-04-27 23:38:54.430285 Train Epoch75: Classification Loss: 47.0044; Producing Loss: 160.1902
+75 epoch ends 
+
+
+76 epoch begins...
+2019-04-27 23:41:48.731082 Train Epoch76: Classification Loss: 46.2657; Producing Loss: 155.1178
+76 epoch ends 
+
+
+77 epoch begins...
+2019-04-27 23:44:42.914631 Train Epoch77: Classification Loss: 46.1738; Producing Loss: 154.2300
+77 epoch ends 
+
+
+78 epoch begins...
+2019-04-27 23:47:35.703296 Train Epoch78: Classification Loss: 46.3101; Producing Loss: 154.8402
+78 epoch ends 
+
+
+79 epoch begins...
+2019-04-27 23:50:29.428315 Train Epoch79: Classification Loss: 45.3283; Producing Loss: 152.2090
+79 epoch ends 
+
+
+80 epoch begins...
+2019-04-27 23:53:23.480586 Train Epoch80: Classification Loss: 45.5866; Producing Loss: 149.7368
+80 epoch ends 
+
+
+81 epoch begins...
+2019-04-27 23:56:18.022729 Train Epoch81: Classification Loss: 45.4411; Producing Loss: 146.9584
+81 epoch ends 
+
+
+82 epoch begins...
+2019-04-27 23:59:12.849194 Train Epoch82: Classification Loss: 44.7802; Producing Loss: 144.7952
+82 epoch ends 
+
+
+83 epoch begins...
+2019-04-28 00:02:06.901596 Train Epoch83: Classification Loss: 44.1352; Producing Loss: 140.4367
+83 epoch ends 
+
+
+84 epoch begins...
+2019-04-28 00:05:00.789848 Train Epoch84: Classification Loss: 42.8750; Producing Loss: 137.3566
+84 epoch ends 
+
+
+85 epoch begins...
+2019-04-28 00:07:54.585498 Train Epoch85: Classification Loss: 44.0273; Producing Loss: 138.4075
+85 epoch ends 
+
+
+86 epoch begins...
+2019-04-28 00:10:48.610369 Train Epoch86: Classification Loss: 43.2099; Producing Loss: 134.3788
+86 epoch ends 
+
+
+87 epoch begins...
+2019-04-28 00:13:42.949665 Train Epoch87: Classification Loss: 42.7652; Producing Loss: 133.8848
+87 epoch ends 
+
+
+88 epoch begins...
+2019-04-28 00:16:36.244920 Train Epoch88: Classification Loss: 43.0924; Producing Loss: 132.5769
+88 epoch ends 
+
+
+89 epoch begins...
+2019-04-28 00:19:30.577789 Train Epoch89: Classification Loss: 42.6428; Producing Loss: 133.5146
+89 epoch ends 
+
+
+90 epoch begins...
+2019-04-28 00:22:24.682185 Train Epoch90: Classification Loss: 42.7975; Producing Loss: 135.7783
+90 epoch ends 
+
+
+91 epoch begins...
+2019-04-28 00:25:18.470907 Train Epoch91: Classification Loss: 41.7993; Producing Loss: 130.2415
+91 epoch ends 
+
+
+92 epoch begins...
+2019-04-28 00:28:11.003120 Train Epoch92: Classification Loss: 41.9090; Producing Loss: 126.7123
+92 epoch ends 
+
+
+93 epoch begins...
+2019-04-28 00:31:03.783301 Train Epoch93: Classification Loss: 41.4949; Producing Loss: 121.9235
+93 epoch ends 
+
+
+94 epoch begins...
+2019-04-28 00:33:56.620137 Train Epoch94: Classification Loss: 41.4572; Producing Loss: 123.2265
+94 epoch ends 
+
+
+95 epoch begins...
+2019-04-28 00:36:49.912447 Train Epoch95: Classification Loss: 41.1053; Producing Loss: 119.9676
+95 epoch ends 
+
+
+96 epoch begins...
+2019-04-28 00:39:43.616260 Train Epoch96: Classification Loss: 41.1982; Producing Loss: 118.0128
+96 epoch ends 
+
+
+97 epoch begins...
+2019-04-28 00:42:37.178456 Train Epoch97: Classification Loss: 40.2934; Producing Loss: 115.8235
+97 epoch ends 
+
+
+98 epoch begins...
+2019-04-28 00:45:30.188885 Train Epoch98: Classification Loss: 39.8680; Producing Loss: 118.5023
+98 epoch ends 
+
+
+99 epoch begins...
+2019-04-28 00:48:24.624838 Train Epoch99: Classification Loss: 39.0214; Producing Loss: 116.9206
+99 epoch ends 
+
+
+100 epoch begins...
+2019-04-28 00:51:18.482711 Train Epoch100: Classification Loss: 39.6366; Producing Loss: 113.2765
+100 epoch ends 
+
+Validation starts ...
+saved to /home/leishi/vqa2019/results/predictions_100epoch.txt
+
+confusion matrix
+[[  4   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0  48   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0  11   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   2
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0
+    0   0   0   1   0   0   0   0]
+ [  0   0  40   0   0   0   0   0   0   0   6   0   0   0   0   0   2   0
+    3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0
+    2   0   0   0   3   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   1   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   4   2   0   0   0   0   0   0   0   0   0   0   0   0
+    0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0
+    1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0
+    1   0   0   0   0   0   0   0]
+ [  1   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0  14   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0  10   0   0   0   0   0   0   0  15   0   0   0   0   0   0   0
+    1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    1   0   0   0   3   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   7   0   0   0   0   1
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    1   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   1   0   4   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   1   0   0   0   0   0   0   0   1   0   0   0   0   0  11   0
+    4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   2   0
+    0   0   7   0   1   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   5
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   25   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    5   0   1   0   0   0   0   0]
+ [  0   2   0   0   2   2   0   0   0   0   0   0   0   0   0   0   0   0
+    0  73   0   0   0   0   1   0   0   0   0   0   0   0   0   0   1   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0  16   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   1   0   0]
+ [  0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0  19   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   1   0   0   0   3   0   0   0   0   0   0   0   0   0   0   0   0
+    0   8   0   0   0   0 201   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   1   0   0   0   0   0   0   3   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   1   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   6   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   3   0   0   0   0   0   0   0   0   0   0   0   1   0   0
+    0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0
+    0   0   0   0   0   0   1   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   3   0   0  22   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   6   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   1   0   0   0   0   1   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   9   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   1   0   0   0   0   0   0   2   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   1   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   1   3   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   8   1   0   0   0
+    0   0   0   8   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   1   0   0   0   0   2   0   0   0   0   0   0   0   0   0  13   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   5   1   0   0   0
+    0   0   0   8   0   0   0   0]
+ [  0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   1
+    0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   9   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   7   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   1   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   3   0   0
+    0   0   0  62   0   5   0   0   0   0   0   0   0   0   0   2   0   0
+    0   0   1   0   1   1   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0
+    1   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0  30   0  83   0   0   0   0   0   0   0   0   0   3   0   0
+    0   0   1   0   0   2   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   3   0   0   4   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   4   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   1   0   2   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   1   0   0   6   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   1   0   3   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0
+    0   0   0   0   0   2   0   0]
+ [  0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0]
+ [  0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   1   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0  23   2   0   0   0
+    0   0   0   5   0   0   0   0]
+ [  0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   5   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   1   2   0   0   0
+    0   0   0   1   0   0   0   0]
+ [  0   0   3   0   0   0   0   0   0   0   1   0   0   0   0   0   1   0
+    3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  64   2   0
+    2   0   0   0   0   0   0   0]
+ [  0   0   3   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0
+    3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   4  32   0
+    2   0   1   0   1   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   7
+    0   0   0   0   0   1   0   0]
+ [  0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0
+    5   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0  17   0   0   0   0   0   0]
+ [  0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0  13   0
+    4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   1   0
+    1   0 153   0   1   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   3   1   0   0   0
+    0   0   0  15   0   0   0   0]
+ [  0   0   4   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0
+    5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0
+    3   0   2   0   2   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   1   0   0   0   0   0   0   1   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1
+    0   0   0   0   0  83   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   3   0]
+ [  2  13  29   2   0  14   7   1   0   0  11   0   0   1   0   0  24   1
+    6  10   0   3   4   1  61   0   0   0   0   4   0   2   0   8   1   3
+    0   0   1   0   0   0   0   0   0   0   0   9   0   5   0  29  25   0
+    8   5  92   5  14  77   1   0]]
+
+accuracy:  0.5665
+
+bleu for abnormality:  0.001537330673228721
+
+bleu for all answers:  0.13013173631501493
+
+Saving checkpoints
+
+101 epoch begins...
+2019-04-28 00:54:46.034137 Train Epoch101: Classification Loss: 38.9781; Producing Loss: 107.8613
+101 epoch ends 
+
+
+102 epoch begins...
+2019-04-28 00:57:39.062660 Train Epoch102: Classification Loss: 37.4715; Producing Loss: 104.7488
+102 epoch ends 
+
+
+103 epoch begins...
+2019-04-28 01:00:31.351328 Train Epoch103: Classification Loss: 36.7454; Producing Loss: 101.7665
+103 epoch ends 
+
+
+104 epoch begins...
+2019-04-28 01:03:23.925958 Train Epoch104: Classification Loss: 37.4507; Producing Loss: 103.0241
+104 epoch ends 
+
+
+105 epoch begins...
+2019-04-28 01:06:17.781985 Train Epoch105: Classification Loss: 36.5266; Producing Loss: 101.4832
+105 epoch ends 
+
+
+106 epoch begins...
+2019-04-28 01:09:10.884872 Train Epoch106: Classification Loss: 36.1262; Producing Loss: 100.9274
+106 epoch ends 
+
+
+107 epoch begins...
+2019-04-28 01:12:03.166771 Train Epoch107: Classification Loss: 35.3400; Producing Loss: 97.2788
+107 epoch ends 
+
+
+108 epoch begins...
+2019-04-28 01:14:56.717347 Train Epoch108: Classification Loss: 36.2564; Producing Loss: 96.1626
+108 epoch ends 
+
+
+109 epoch begins...
+2019-04-28 01:17:49.972575 Train Epoch109: Classification Loss: 35.5203; Producing Loss: 97.0981
+109 epoch ends 
+
+
+110 epoch begins...
+2019-04-28 01:20:42.943630 Train Epoch110: Classification Loss: 35.4973; Producing Loss: 96.4480
+110 epoch ends 
+
+
+111 epoch begins...
+2019-04-28 01:23:34.819771 Train Epoch111: Classification Loss: 35.9966; Producing Loss: 95.5455
+111 epoch ends 
+
+
+112 epoch begins...
+2019-04-28 01:26:26.949288 Train Epoch112: Classification Loss: 34.6921; Producing Loss: 92.9510
+112 epoch ends 
+
+
+113 epoch begins...
+2019-04-28 01:29:19.456727 Train Epoch113: Classification Loss: 34.7500; Producing Loss: 92.7599
+113 epoch ends 
+
+
+114 epoch begins...
+2019-04-28 01:32:12.339405 Train Epoch114: Classification Loss: 34.9212; Producing Loss: 93.7129
+114 epoch ends 
+
+
+115 epoch begins...
+2019-04-28 01:35:05.218790 Train Epoch115: Classification Loss: 34.8249; Producing Loss: 91.6212
+115 epoch ends 
+
+
+116 epoch begins...
+2019-04-28 01:37:58.584909 Train Epoch116: Classification Loss: 34.3902; Producing Loss: 93.9966
+116 epoch ends 
+
+
+117 epoch begins...
+2019-04-28 01:40:52.497701 Train Epoch117: Classification Loss: 34.0377; Producing Loss: 91.2740
+117 epoch ends 
+
+
+118 epoch begins...
+2019-04-28 01:43:44.319928 Train Epoch118: Classification Loss: 34.4726; Producing Loss: 85.6321
+118 epoch ends 
+
+
+119 epoch begins...
+2019-04-28 01:46:37.960150 Train Epoch119: Classification Loss: 34.8214; Producing Loss: 85.1606
+119 epoch ends 
+
+
+120 epoch begins...
+2019-04-28 01:49:30.769914 Train Epoch120: Classification Loss: 34.1673; Producing Loss: 89.1694
+120 epoch ends 
+
+
+121 epoch begins...
+2019-04-28 01:52:24.026862 Train Epoch121: Classification Loss: 34.1861; Producing Loss: 88.4631
+121 epoch ends 
+
+
+122 epoch begins...
+2019-04-28 01:55:17.373042 Train Epoch122: Classification Loss: 33.0939; Producing Loss: 90.0337
+122 epoch ends 
+
+
+123 epoch begins...
+2019-04-28 01:58:10.583359 Train Epoch123: Classification Loss: 33.9718; Producing Loss: 85.6741
+123 epoch ends 
+
+
+124 epoch begins...
+2019-04-28 02:01:02.606442 Train Epoch124: Classification Loss: 32.3010; Producing Loss: 85.6795
+124 epoch ends 
+
+
+125 epoch begins...
+2019-04-28 02:03:55.837673 Train Epoch125: Classification Loss: 32.2218; Producing Loss: 84.5059
+125 epoch ends 
+
+
+126 epoch begins...
+2019-04-28 02:06:48.821011 Train Epoch126: Classification Loss: 31.9854; Producing Loss: 84.2295
+126 epoch ends 
+
+
+127 epoch begins...
+2019-04-28 02:09:42.280129 Train Epoch127: Classification Loss: 31.9309; Producing Loss: 80.2250
+127 epoch ends 
+
+
+128 epoch begins...
+2019-04-28 02:12:35.877154 Train Epoch128: Classification Loss: 32.3614; Producing Loss: 83.9759
+128 epoch ends 
+
+
+129 epoch begins...
+2019-04-28 02:15:29.575714 Train Epoch129: Classification Loss: 32.1449; Producing Loss: 81.4809
+129 epoch ends 
+
+
+130 epoch begins...
+2019-04-28 02:18:22.714518 Train Epoch130: Classification Loss: 32.9337; Producing Loss: 81.8407
+130 epoch ends 
+
+
+131 epoch begins...
+2019-04-28 02:21:16.328417 Train Epoch131: Classification Loss: 31.7973; Producing Loss: 79.5853
+131 epoch ends 
+
+
+132 epoch begins...
+2019-04-28 02:24:09.665161 Train Epoch132: Classification Loss: 32.2556; Producing Loss: 82.1418
+132 epoch ends 
+
+
+133 epoch begins...
+2019-04-28 02:27:02.968371 Train Epoch133: Classification Loss: 32.0293; Producing Loss: 76.8875
+133 epoch ends 
+
+
+134 epoch begins...
+2019-04-28 02:29:56.102953 Train Epoch134: Classification Loss: 31.8858; Producing Loss: 75.7024
+134 epoch ends 
+
+
+135 epoch begins...
+2019-04-28 02:32:49.068881 Train Epoch135: Classification Loss: 31.7209; Producing Loss: 78.4208
+135 epoch ends 
+
+
+136 epoch begins...
+2019-04-28 02:35:41.186356 Train Epoch136: Classification Loss: 30.9952; Producing Loss: 73.8579
+136 epoch ends 
+
+
+137 epoch begins...
+2019-04-28 02:38:34.401197 Train Epoch137: Classification Loss: 32.5087; Producing Loss: 76.5224
+137 epoch ends 
+
+
+138 epoch begins...
+2019-04-28 02:41:27.264574 Train Epoch138: Classification Loss: 31.7600; Producing Loss: 75.3220
+138 epoch ends 
+
+
+139 epoch begins...
+2019-04-28 02:44:20.805209 Train Epoch139: Classification Loss: 30.7122; Producing Loss: 74.2102
+139 epoch ends 
+
+
+140 epoch begins...
+2019-04-28 02:47:13.257206 Train Epoch140: Classification Loss: 30.6302; Producing Loss: 71.1858
+140 epoch ends 
+
+
+141 epoch begins...
+2019-04-28 02:50:05.999686 Train Epoch141: Classification Loss: 30.5907; Producing Loss: 72.3280
+141 epoch ends 
+
+
+142 epoch begins...
+2019-04-28 02:52:58.652375 Train Epoch142: Classification Loss: 31.3777; Producing Loss: 74.6745
+142 epoch ends 
+
+
+143 epoch begins...
+2019-04-28 02:55:51.320307 Train Epoch143: Classification Loss: 29.7400; Producing Loss: 71.3943
+143 epoch ends 
+
+
+144 epoch begins...
+2019-04-28 02:58:45.747252 Train Epoch144: Classification Loss: 29.0305; Producing Loss: 72.2559
+144 epoch ends 
+
+
+145 epoch begins...
+2019-04-28 03:01:39.297280 Train Epoch145: Classification Loss: 29.5781; Producing Loss: 71.7668
+145 epoch ends 
+
+
+146 epoch begins...
+2019-04-28 03:04:32.451268 Train Epoch146: Classification Loss: 29.8264; Producing Loss: 69.8535
+146 epoch ends 
+
+
+147 epoch begins...
+2019-04-28 03:07:25.353157 Train Epoch147: Classification Loss: 29.4962; Producing Loss: 67.8273
+147 epoch ends 
+
+
+148 epoch begins...
+2019-04-28 03:10:17.891743 Train Epoch148: Classification Loss: 29.7006; Producing Loss: 69.0001
+148 epoch ends 
+
+
+149 epoch begins...
+2019-04-28 03:13:09.729385 Train Epoch149: Classification Loss: 29.2153; Producing Loss: 70.4355
+149 epoch ends 
+
+
+150 epoch begins...
+2019-04-28 03:16:02.521799 Train Epoch150: Classification Loss: 28.7915; Producing Loss: 69.4223
+150 epoch ends 
+
+
+151 epoch begins...
+2019-04-28 03:18:54.780855 Train Epoch151: Classification Loss: 28.6483; Producing Loss: 67.7384
+151 epoch ends 
+
+
+152 epoch begins...
+2019-04-28 03:21:47.580360 Train Epoch152: Classification Loss: 26.9928; Producing Loss: 64.8891
+152 epoch ends 
+
+
+153 epoch begins...
+2019-04-28 03:24:40.620001 Train Epoch153: Classification Loss: 28.3628; Producing Loss: 69.5468
+153 epoch ends 
+
+
+154 epoch begins...
+2019-04-28 03:27:33.549174 Train Epoch154: Classification Loss: 28.0206; Producing Loss: 66.3981
+154 epoch ends 
+
+
+155 epoch begins...
+2019-04-28 03:30:25.830462 Train Epoch155: Classification Loss: 27.2747; Producing Loss: 66.1766
+155 epoch ends 
+
+
+156 epoch begins...
+2019-04-28 03:33:19.202531 Train Epoch156: Classification Loss: 27.0995; Producing Loss: 67.2952
+156 epoch ends 
+
+
+157 epoch begins...
+2019-04-28 03:36:11.816975 Train Epoch157: Classification Loss: 26.8196; Producing Loss: 61.1224
+157 epoch ends 
+
+
+158 epoch begins...
+2019-04-28 03:39:04.681075 Train Epoch158: Classification Loss: 26.6054; Producing Loss: 65.0649
+158 epoch ends 
+
+
+159 epoch begins...
+2019-04-28 03:41:57.119116 Train Epoch159: Classification Loss: 26.1274; Producing Loss: 62.2184
+159 epoch ends 
+
+
+160 epoch begins...
+2019-04-28 03:44:50.087922 Train Epoch160: Classification Loss: 26.1480; Producing Loss: 62.9541
+160 epoch ends 
+
+
+161 epoch begins...
+2019-04-28 03:47:43.035995 Train Epoch161: Classification Loss: 26.1668; Producing Loss: 63.3675
+161 epoch ends 
+
+
+162 epoch begins...
+2019-04-28 03:50:35.318109 Train Epoch162: Classification Loss: 27.0032; Producing Loss: 61.1597
+162 epoch ends 
+
+
+163 epoch begins...
+2019-04-28 03:53:28.066293 Train Epoch163: Classification Loss: 27.1129; Producing Loss: 61.1537
+163 epoch ends 
+
+
+164 epoch begins...
+2019-04-28 03:56:20.551898 Train Epoch164: Classification Loss: 27.0099; Producing Loss: 62.7710
+164 epoch ends 
+
+
+165 epoch begins...
+2019-04-28 03:59:14.048670 Train Epoch165: Classification Loss: 26.4876; Producing Loss: 60.1449
+165 epoch ends 
+
+
+166 epoch begins...
+2019-04-28 04:02:07.181502 Train Epoch166: Classification Loss: 25.2906; Producing Loss: 60.6935
+166 epoch ends 
+
+
+167 epoch begins...
+2019-04-28 04:04:59.126838 Train Epoch167: Classification Loss: 25.7501; Producing Loss: 59.0753
+167 epoch ends 
+
+
+168 epoch begins...
+2019-04-28 04:07:52.618931 Train Epoch168: Classification Loss: 25.9763; Producing Loss: 62.5072
+168 epoch ends 
+
+
+169 epoch begins...
+2019-04-28 04:10:46.061886 Train Epoch169: Classification Loss: 24.9844; Producing Loss: 57.2924
+169 epoch ends 
+
+
+170 epoch begins...
+2019-04-28 04:13:38.903376 Train Epoch170: Classification Loss: 25.8670; Producing Loss: 59.9487
+170 epoch ends 
+
+
+171 epoch begins...
+2019-04-28 04:16:32.510674 Train Epoch171: Classification Loss: 25.5601; Producing Loss: 56.5535
+171 epoch ends 
+
+
+172 epoch begins...
+2019-04-28 04:19:25.886105 Train Epoch172: Classification Loss: 25.6497; Producing Loss: 56.1594
+172 epoch ends 
+
+
+173 epoch begins...
+2019-04-28 04:22:18.429825 Train Epoch173: Classification Loss: 25.6034; Producing Loss: 57.6940
+173 epoch ends 
+
+
+174 epoch begins...
+2019-04-28 04:25:12.055243 Train Epoch174: Classification Loss: 25.1203; Producing Loss: 59.3671
+174 epoch ends 
+
+
+175 epoch begins...
+2019-04-28 04:28:05.156102 Train Epoch175: Classification Loss: 25.2292; Producing Loss: 59.5810
+175 epoch ends 
+
+
+176 epoch begins...
+2019-04-28 04:30:57.930856 Train Epoch176: Classification Loss: 25.1511; Producing Loss: 56.2074
+176 epoch ends 
+
+
+177 epoch begins...
+2019-04-28 04:33:50.541894 Train Epoch177: Classification Loss: 25.5558; Producing Loss: 57.5216
+177 epoch ends 
+
+
+178 epoch begins...
+2019-04-28 04:36:43.991716 Train Epoch178: Classification Loss: 24.6448; Producing Loss: 57.6567
+178 epoch ends 
+
+
+179 epoch begins...
+2019-04-28 04:39:36.830436 Train Epoch179: Classification Loss: 24.3711; Producing Loss: 56.4163
+179 epoch ends 
+
+
+180 epoch begins...
+2019-04-28 04:42:29.436493 Train Epoch180: Classification Loss: 25.0663; Producing Loss: 56.8434
+180 epoch ends 
+
+
+181 epoch begins...
+2019-04-28 04:45:22.948767 Train Epoch181: Classification Loss: 24.5163; Producing Loss: 54.9706
+181 epoch ends 
+
+
+182 epoch begins...
+2019-04-28 04:48:16.220411 Train Epoch182: Classification Loss: 24.9301; Producing Loss: 55.3462
+182 epoch ends 
+
+
+183 epoch begins...
+2019-04-28 04:51:09.142396 Train Epoch183: Classification Loss: 24.7425; Producing Loss: 55.3529
+183 epoch ends 
+
+
+184 epoch begins...
+2019-04-28 04:54:01.765183 Train Epoch184: Classification Loss: 24.1200; Producing Loss: 56.2350
+184 epoch ends 
+
+
+185 epoch begins...
+2019-04-28 04:56:54.592738 Train Epoch185: Classification Loss: 24.4357; Producing Loss: 53.9929
+185 epoch ends 
+
+
+186 epoch begins...
+2019-04-28 04:59:47.622761 Train Epoch186: Classification Loss: 23.5415; Producing Loss: 55.5037
+186 epoch ends 
+
+
+187 epoch begins...
+2019-04-28 05:02:41.221953 Train Epoch187: Classification Loss: 24.2295; Producing Loss: 54.8403
+187 epoch ends 
+
+
+188 epoch begins...
+2019-04-28 05:05:33.887173 Train Epoch188: Classification Loss: 24.7173; Producing Loss: 55.6848
+188 epoch ends 
+
+
+189 epoch begins...
+2019-04-28 05:08:26.481153 Train Epoch189: Classification Loss: 24.4549; Producing Loss: 54.5539
+189 epoch ends 
+
+
+190 epoch begins...
+2019-04-28 05:11:19.286561 Train Epoch190: Classification Loss: 23.7433; Producing Loss: 52.1300
+190 epoch ends 
+
+
+191 epoch begins...
+2019-04-28 05:14:12.712387 Train Epoch191: Classification Loss: 23.4288; Producing Loss: 55.1253
+191 epoch ends 
+
+
+192 epoch begins...
+2019-04-28 05:17:05.665635 Train Epoch192: Classification Loss: 23.7987; Producing Loss: 53.1522
+192 epoch ends 
+
+
+193 epoch begins...
+2019-04-28 05:19:57.812104 Train Epoch193: Classification Loss: 23.1140; Producing Loss: 52.3423
+193 epoch ends 
+
+
+194 epoch begins...
+2019-04-28 05:22:51.003433 Train Epoch194: Classification Loss: 23.0813; Producing Loss: 52.1542
+194 epoch ends 
+
+
+195 epoch begins...
+2019-04-28 05:25:43.719828 Train Epoch195: Classification Loss: 23.3342; Producing Loss: 52.9953
+195 epoch ends 
+
+
+196 epoch begins...
+2019-04-28 05:28:36.837110 Train Epoch196: Classification Loss: 24.2656; Producing Loss: 52.3337
+196 epoch ends 
+
+
+197 epoch begins...
+2019-04-28 05:31:30.101731 Train Epoch197: Classification Loss: 23.3405; Producing Loss: 50.5573
+197 epoch ends 
+
+
+198 epoch begins...
+2019-04-28 05:34:23.281439 Train Epoch198: Classification Loss: 23.4072; Producing Loss: 52.2402
+198 epoch ends 
+
+
+199 epoch begins...
+2019-04-28 05:37:16.464754 Train Epoch199: Classification Loss: 23.4452; Producing Loss: 51.4808
+199 epoch ends 
+
+
+200 epoch begins...
+2019-04-28 05:40:09.342650 Train Epoch200: Classification Loss: 23.1272; Producing Loss: 53.5409
+200 epoch ends 
+
+Validation starts ...
+saved to /home/leishi/vqa2019/results/predictions_200epoch.txt
+
+confusion matrix
+[[  4   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0  54   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   7
+    0   0   0   1   0   0   0   0   0   0   0   0   0   1   1   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0  37   0   0   0   0   0   0  11   0   0   0   0   1   0   1   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   3   2   0   2   0   0   0
+    2   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   1   0   0   3   2   0   0   0   0   0   0   0   0   0   0   0   1
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0  10   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0
+    0   0   0   0]
+ [  1   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0
+    0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0  12   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   4   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   9   0   0   0   0   0   0  17   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0
+    3   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   7   0   0   0   0   1   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0
+    0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   1   0   4   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0  13   0   1   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   3   3   0   0   0   8   0
+    1   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   5   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0  19   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0  10   0   1   0
+    2   0   0   0]
+ [  0   7   0   0   2   2   0   0   0   0   0   0   0   0   0   0   0  65
+    0   0   0   2   0   0   0   0   0   0   0   0   0   2   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0  16   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   1   0   0]
+ [  0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0  19   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   5   0   0   1   1   0   0   0   0   0   0   0   0   0   0   0   6
+    0   0   0 200   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   1   0   0   0   0   0   0   3   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   1   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   6   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   2   0   0   0   0   0   0   0   0   0   1   0   0   0   0
+    0   0   0   0   0   0   0   3   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  1   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0
+    0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0
+    0   0   1   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   1   0   0  26   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   4   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0  10   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   2   0   0   0   0   0   0   2   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0   0   0   0   0   0   0   6   2   0   0   0   0
+    0   0   0   0   0   0   0   0   0   7   0   0   0   0   0   0   0   5
+    0   0   0   0]
+ [  0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   3   0   0   0   0   0   0   0   0   1  22   0   0   0   0
+    0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   2
+    0   0   0   0]
+ [  0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0   0   0   0   0   0   0   0   0   1   0   0   0
+    0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   6   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  10   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   1   0   0   1   0   0   0   0   0   0   0   0   2   0   0   0
+    0   1   0   1   0   0   0   0   0   0   0   0   1   0   0   0   0  55
+    0  12   0   0   0   0   0   0   0   0   0   1   0   0   0   0   4   1
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  10
+    0 105   0   0   0   0   0   0   0   0   0   3   0   0   0   0   1   0
+    2   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   5   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   4   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   1   0   2   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   3   0   0   5   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   1   0   3   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   3   0   0   0   0   0   0   0   0   0   0
+    0   1   0   0]
+ [  0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0]
+ [  0   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   2   3   0   0   0   0
+    0   0   0   0   0   0   0   0   0  23   1   0   0   0   0   0   0   2
+    0   0   0   0]
+ [  0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0   0   0   0   0   0   0   1   5   0   0   0   0
+    0   0   0   0   0   0   0   0   0   1   1   0   0   0   0   0   0   1
+    0   0   0   0]
+ [  0   0   4   0   0   0   0   0   0   1   0   0   0   0   1   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0  67   2   0   1   0   0   0
+    0   0   0   0]
+ [  0   0   3   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   1  35   0   1   0   3   0
+    3   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0
+    0   0   0   0]
+ [  0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   5   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   2   0   0   8   0   1   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  15   0   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0  12   0   1   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   2   2   0   0   0 159   0
+    1   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   4   0   0   0   0   0   0   0  13
+    0   0   0   0]
+ [  0   0   3   0   0   0   0   0   0   5   0   0   0   0   1   0   3   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   3   0   0   2   0   4   0
+    0   0   0   0]
+ [  0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   2   0   0   0   0   0   0   1   0   0   0   0   0   0
+    0   0   0   0   0   1   0   0   0   0   0   0   0   1   0   0   0   0
+    0  80   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   3   0]
+ [  0   3  46   2   0  11   7   9   0  16   0   0   0   0  32   1   5   3
+    0   6   3  54   1   0   0   0   2   0   1   0  10   3   2   0   0   0
+    0   0   0   0   0   0   0   6   0   4   0  49  28   0  11   1 117   1
+   15  29   1   0]]
+
+accuracy:  0.5855
+
+bleu for abnormality:  0.001970815199230169
+
+bleu for all answers:  0.13198628361916073
+
+Saving checkpoints
+
+201 epoch begins...
+2019-04-28 05:43:36.047872 Train Epoch201: Classification Loss: 22.6459; Producing Loss: 49.6217
+201 epoch ends 
+
+
+202 epoch begins...
+2019-04-28 05:46:27.983134 Train Epoch202: Classification Loss: 22.4191; Producing Loss: 49.3503
+202 epoch ends 
+
+
+203 epoch begins...
+2019-04-28 05:49:21.293172 Train Epoch203: Classification Loss: 23.1050; Producing Loss: 48.7532
+203 epoch ends 
+
+
+204 epoch begins...
+2019-04-28 05:52:15.048389 Train Epoch204: Classification Loss: 22.5949; Producing Loss: 47.7703
+204 epoch ends 
+
+
+205 epoch begins...
+2019-04-28 05:55:07.145951 Train Epoch205: Classification Loss: 22.0787; Producing Loss: 47.7332
+205 epoch ends 
+
+
+206 epoch begins...
+2019-04-28 05:57:59.826326 Train Epoch206: Classification Loss: 22.0029; Producing Loss: 47.4363
+206 epoch ends 
+
+
+207 epoch begins...
+2019-04-28 06:00:52.433965 Train Epoch207: Classification Loss: 22.3270; Producing Loss: 48.9203
+207 epoch ends 
+
+
+208 epoch begins...
+2019-04-28 06:03:44.730362 Train Epoch208: Classification Loss: 22.4916; Producing Loss: 49.1632
+208 epoch ends 
+
+
+209 epoch begins...
+2019-04-28 06:06:36.558881 Train Epoch209: Classification Loss: 21.4272; Producing Loss: 48.3190
+209 epoch ends 
+
+
+210 epoch begins...
+2019-04-28 06:09:29.857109 Train Epoch210: Classification Loss: 21.5231; Producing Loss: 47.5392
+210 epoch ends 
+
+
+211 epoch begins...
+2019-04-28 06:12:22.520431 Train Epoch211: Classification Loss: 21.8237; Producing Loss: 45.2962
+211 epoch ends 
+
+
+212 epoch begins...
+2019-04-28 06:15:15.939772 Train Epoch212: Classification Loss: 21.7750; Producing Loss: 50.3615
+212 epoch ends 
+
+
+213 epoch begins...
+2019-04-28 06:18:08.546757 Train Epoch213: Classification Loss: 20.7672; Producing Loss: 47.2819
+213 epoch ends 
+
+
+214 epoch begins...
+2019-04-28 06:21:01.405883 Train Epoch214: Classification Loss: 22.0931; Producing Loss: 47.4135
+214 epoch ends 
+
+
+215 epoch begins...
+2019-04-28 06:23:54.133295 Train Epoch215: Classification Loss: 21.4085; Producing Loss: 43.6960
+215 epoch ends 
+
+
+216 epoch begins...
+2019-04-28 06:26:47.235772 Train Epoch216: Classification Loss: 21.7163; Producing Loss: 46.1894
+216 epoch ends 
+
+
+217 epoch begins...
+2019-04-28 06:29:40.652258 Train Epoch217: Classification Loss: 21.1958; Producing Loss: 48.6780
+217 epoch ends 
+
+
+218 epoch begins...
+2019-04-28 06:32:34.239608 Train Epoch218: Classification Loss: 21.0995; Producing Loss: 45.8226
+218 epoch ends 
+
+
+219 epoch begins...
+2019-04-28 06:35:26.575622 Train Epoch219: Classification Loss: 21.3823; Producing Loss: 46.6218
+219 epoch ends 
+
+
+220 epoch begins...
+2019-04-28 06:38:19.497781 Train Epoch220: Classification Loss: 21.5229; Producing Loss: 45.4929
+220 epoch ends 
+
+
+221 epoch begins...
+2019-04-28 06:41:11.786233 Train Epoch221: Classification Loss: 21.8605; Producing Loss: 47.3328
+221 epoch ends 
+
+
+222 epoch begins...
+2019-04-28 06:44:04.145770 Train Epoch222: Classification Loss: 21.3644; Producing Loss: 46.5865
+222 epoch ends 
+
+
+223 epoch begins...
+2019-04-28 06:46:56.549250 Train Epoch223: Classification Loss: 21.2181; Producing Loss: 46.2786
+223 epoch ends 
+
+
+224 epoch begins...
+2019-04-28 06:49:48.679667 Train Epoch224: Classification Loss: 21.6820; Producing Loss: 44.3125
+224 epoch ends 
+
+
+225 epoch begins...
+2019-04-28 06:52:42.134936 Train Epoch225: Classification Loss: 20.6863; Producing Loss: 46.6985
+225 epoch ends 
+
+
+226 epoch begins...
+2019-04-28 06:55:34.972042 Train Epoch226: Classification Loss: 21.1879; Producing Loss: 47.2665
+226 epoch ends 
+
+
+227 epoch begins...
+2019-04-28 06:58:26.725697 Train Epoch227: Classification Loss: 21.3158; Producing Loss: 46.3628
+227 epoch ends 
+
+
+228 epoch begins...
+2019-04-28 07:01:19.761692 Train Epoch228: Classification Loss: 20.8543; Producing Loss: 47.7494
+228 epoch ends 
+
+
+229 epoch begins...
+2019-04-28 07:04:12.930723 Train Epoch229: Classification Loss: 20.5344; Producing Loss: 46.8076
+229 epoch ends 
+
+
+230 epoch begins...
+2019-04-28 07:07:05.610261 Train Epoch230: Classification Loss: 20.6482; Producing Loss: 45.7044
+230 epoch ends 
+
+
+231 epoch begins...
+2019-04-28 07:09:58.560573 Train Epoch231: Classification Loss: 21.0210; Producing Loss: 43.7640
+231 epoch ends 
+
+
+232 epoch begins...
+2019-04-28 07:12:50.914442 Train Epoch232: Classification Loss: 20.2590; Producing Loss: 45.8633
+232 epoch ends 
+
+
+233 epoch begins...
+2019-04-28 07:15:43.842774 Train Epoch233: Classification Loss: 20.8026; Producing Loss: 44.1584
+233 epoch ends 
+
+
+234 epoch begins...
+2019-04-28 07:18:36.609431 Train Epoch234: Classification Loss: 21.1429; Producing Loss: 46.4062
+234 epoch ends 
+
+
+235 epoch begins...
+2019-04-28 07:21:29.301094 Train Epoch235: Classification Loss: 20.4612; Producing Loss: 44.1556
+235 epoch ends 
+
+
+236 epoch begins...
+2019-04-28 07:24:23.011922 Train Epoch236: Classification Loss: 20.6742; Producing Loss: 44.7723
+236 epoch ends 
+
+
+237 epoch begins...
+2019-04-28 07:27:16.207010 Train Epoch237: Classification Loss: 20.7907; Producing Loss: 46.1005
+237 epoch ends 
+
+
+238 epoch begins...
+2019-04-28 07:30:08.965715 Train Epoch238: Classification Loss: 20.3142; Producing Loss: 46.4641
+238 epoch ends 
+
+
+239 epoch begins...
+2019-04-28 07:33:01.547428 Train Epoch239: Classification Loss: 20.1352; Producing Loss: 44.2032
+239 epoch ends 
+
+
+240 epoch begins...
+2019-04-28 07:35:54.459858 Train Epoch240: Classification Loss: 19.5662; Producing Loss: 42.4206
+240 epoch ends 
+
+
+241 epoch begins...
+2019-04-28 07:38:47.704273 Train Epoch241: Classification Loss: 20.7223; Producing Loss: 43.2986
+241 epoch ends 
+
+
+242 epoch begins...
+2019-04-28 07:41:40.922526 Train Epoch242: Classification Loss: 20.1954; Producing Loss: 44.6999
+242 epoch ends 
+
+
+243 epoch begins...
+2019-04-28 07:44:33.737857 Train Epoch243: Classification Loss: 19.9794; Producing Loss: 43.6085
+243 epoch ends 
+
+
+244 epoch begins...
+2019-04-28 07:47:26.395431 Train Epoch244: Classification Loss: 20.7070; Producing Loss: 44.0966
+244 epoch ends 
+
+
+245 epoch begins...
+2019-04-28 07:50:18.976330 Train Epoch245: Classification Loss: 19.9186; Producing Loss: 44.9734
+245 epoch ends 
+
+
+246 epoch begins...
+2019-04-28 07:53:11.472200 Train Epoch246: Classification Loss: 20.9645; Producing Loss: 43.3920
+246 epoch ends 
+
+
+247 epoch begins...
+2019-04-28 07:56:03.974224 Train Epoch247: Classification Loss: 19.5387; Producing Loss: 42.1537
+247 epoch ends 
+
+
+248 epoch begins...
+2019-04-28 07:58:56.557199 Train Epoch248: Classification Loss: 20.1795; Producing Loss: 43.6129
+248 epoch ends 
+
+
+249 epoch begins...
+2019-04-28 08:01:50.669062 Train Epoch249: Classification Loss: 20.3326; Producing Loss: 40.9445
+249 epoch ends 
+
+
+250 epoch begins...
+2019-04-28 08:04:43.170881 Train Epoch250: Classification Loss: 19.5083; Producing Loss: 41.9010
+250 epoch ends 
+
+
+251 epoch begins...
+2019-04-28 08:07:35.814353 Train Epoch251: Classification Loss: 20.2632; Producing Loss: 43.7218
+251 epoch ends 
+
+
+252 epoch begins...
+2019-04-28 08:10:27.921404 Train Epoch252: Classification Loss: 20.3036; Producing Loss: 42.3919
+252 epoch ends 
+
+
+253 epoch begins...
+2019-04-28 08:13:21.692688 Train Epoch253: Classification Loss: 19.9118; Producing Loss: 41.0621
+253 epoch ends 
+
+
+254 epoch begins...
+2019-04-28 08:16:14.207381 Train Epoch254: Classification Loss: 19.7249; Producing Loss: 40.8707
+254 epoch ends 
+
+
+255 epoch begins...
+2019-04-28 08:19:06.812960 Train Epoch255: Classification Loss: 20.1368; Producing Loss: 44.7305
+255 epoch ends 
+
+
+256 epoch begins...
+2019-04-28 08:21:59.535209 Train Epoch256: Classification Loss: 19.9558; Producing Loss: 44.0290
+256 epoch ends 
+
+
+257 epoch begins...
+2019-04-28 08:24:51.901510 Train Epoch257: Classification Loss: 19.1558; Producing Loss: 42.2989
+257 epoch ends 
+
+
+258 epoch begins...
+2019-04-28 08:27:44.453402 Train Epoch258: Classification Loss: 20.1743; Producing Loss: 42.3849
+258 epoch ends 
+
+
+259 epoch begins...
+2019-04-28 08:30:37.056170 Train Epoch259: Classification Loss: 19.6434; Producing Loss: 43.5942
+259 epoch ends 
+
+
+260 epoch begins...
+2019-04-28 08:33:30.113286 Train Epoch260: Classification Loss: 19.8002; Producing Loss: 40.7150
+260 epoch ends 
+
+
+261 epoch begins...
+2019-04-28 08:36:23.205001 Train Epoch261: Classification Loss: 19.2324; Producing Loss: 42.8439
+261 epoch ends 
+
+
+262 epoch begins...
+2019-04-28 08:39:15.835434 Train Epoch262: Classification Loss: 18.8812; Producing Loss: 41.0669
+262 epoch ends 
+
+
+263 epoch begins...
+2019-04-28 08:42:08.096467 Train Epoch263: Classification Loss: 19.0844; Producing Loss: 43.1036
+263 epoch ends 
+
+
+264 epoch begins...
+2019-04-28 08:45:00.944555 Train Epoch264: Classification Loss: 19.0741; Producing Loss: 41.6591
+264 epoch ends 
+
+
+265 epoch begins...
+2019-04-28 08:47:53.572448 Train Epoch265: Classification Loss: 19.2415; Producing Loss: 42.2581
+265 epoch ends 
+
+
+266 epoch begins...
+2019-04-28 08:50:46.611407 Train Epoch266: Classification Loss: 18.9222; Producing Loss: 40.7434
+266 epoch ends 
+
+
+267 epoch begins...
+2019-04-28 08:53:39.233668 Train Epoch267: Classification Loss: 19.1893; Producing Loss: 42.8994
+267 epoch ends 
+
+
+268 epoch begins...
+2019-04-28 08:56:32.619715 Train Epoch268: Classification Loss: 19.7471; Producing Loss: 40.5746
+268 epoch ends 
+
+
+269 epoch begins...
+2019-04-28 08:59:24.832272 Train Epoch269: Classification Loss: 19.0362; Producing Loss: 39.5758
+269 epoch ends 
+
+
+270 epoch begins...
+2019-04-28 09:02:17.956207 Train Epoch270: Classification Loss: 19.6232; Producing Loss: 43.8439
+270 epoch ends 
+
+
+271 epoch begins...
+2019-04-28 09:05:12.272313 Train Epoch271: Classification Loss: 19.0944; Producing Loss: 40.0345
+271 epoch ends 
+
+
+272 epoch begins...
+2019-04-28 09:08:06.297224 Train Epoch272: Classification Loss: 19.0587; Producing Loss: 41.8745
+272 epoch ends 
+
+
+273 epoch begins...
+2019-04-28 09:11:00.243317 Train Epoch273: Classification Loss: 19.0635; Producing Loss: 40.5993
+273 epoch ends 
+
+
+274 epoch begins...
+2019-04-28 09:13:53.305700 Train Epoch274: Classification Loss: 19.0672; Producing Loss: 41.2603
+274 epoch ends 
+
+
+275 epoch begins...
+2019-04-28 09:16:47.035080 Train Epoch275: Classification Loss: 19.3167; Producing Loss: 40.8133
+275 epoch ends 
+
+
+276 epoch begins...
+2019-04-28 09:19:39.663955 Train Epoch276: Classification Loss: 18.9834; Producing Loss: 39.9156
+276 epoch ends 
+
+
+277 epoch begins...
+2019-04-28 09:22:33.105645 Train Epoch277: Classification Loss: 18.6946; Producing Loss: 39.7136
+277 epoch ends 
+
+
+278 epoch begins...
+2019-04-28 09:25:25.962546 Train Epoch278: Classification Loss: 18.3882; Producing Loss: 40.7674
+278 epoch ends 
+
+
+279 epoch begins...
+2019-04-28 09:28:18.323624 Train Epoch279: Classification Loss: 18.7444; Producing Loss: 41.6100
+279 epoch ends 
+
+
+280 epoch begins...
+2019-04-28 09:31:11.576504 Train Epoch280: Classification Loss: 19.3840; Producing Loss: 40.4083
+280 epoch ends 
+
+
+281 epoch begins...
+2019-04-28 09:34:05.298383 Train Epoch281: Classification Loss: 18.9824; Producing Loss: 41.6022
+281 epoch ends 
+
+
+282 epoch begins...
+2019-04-28 09:36:59.439988 Train Epoch282: Classification Loss: 18.9357; Producing Loss: 41.3198
+282 epoch ends 
+
+
+283 epoch begins...
+2019-04-28 09:39:52.095972 Train Epoch283: Classification Loss: 19.1420; Producing Loss: 40.8560
+283 epoch ends 
+
+
+284 epoch begins...
+2019-04-28 09:42:43.666730 Train Epoch284: Classification Loss: 19.0055; Producing Loss: 39.2714
+284 epoch ends 
+
+
+285 epoch begins...
+2019-04-28 09:45:36.446834 Train Epoch285: Classification Loss: 19.6741; Producing Loss: 41.1461
+285 epoch ends 
+
+
+286 epoch begins...
+2019-04-28 09:48:28.627663 Train Epoch286: Classification Loss: 18.6610; Producing Loss: 40.5081
+286 epoch ends 
+
+
+287 epoch begins...
+2019-04-28 09:51:21.246403 Train Epoch287: Classification Loss: 19.2874; Producing Loss: 39.5194
+287 epoch ends 
+
+
+288 epoch begins...
+2019-04-28 09:54:13.761596 Train Epoch288: Classification Loss: 18.2361; Producing Loss: 40.1361
+288 epoch ends 
+
+
+289 epoch begins...
+2019-04-28 09:57:06.674579 Train Epoch289: Classification Loss: 18.7884; Producing Loss: 40.2779
+289 epoch ends 
+
+
+290 epoch begins...
+2019-04-28 09:59:59.087083 Train Epoch290: Classification Loss: 18.0264; Producing Loss: 41.8251
+290 epoch ends 
+
+
+291 epoch begins...
+2019-04-28 10:02:51.567202 Train Epoch291: Classification Loss: 18.7109; Producing Loss: 42.3924
+291 epoch ends 
+
+
+292 epoch begins...
+2019-04-28 10:05:44.770392 Train Epoch292: Classification Loss: 18.2322; Producing Loss: 37.0068
+292 epoch ends 
+
+
+293 epoch begins...
+2019-04-28 10:08:37.911237 Train Epoch293: Classification Loss: 18.4350; Producing Loss: 39.4508
+293 epoch ends 
+
+
+294 epoch begins...
+2019-04-28 10:11:31.115488 Train Epoch294: Classification Loss: 18.7002; Producing Loss: 38.4865
+294 epoch ends 
+
+
+295 epoch begins...
+2019-04-28 10:14:24.732550 Train Epoch295: Classification Loss: 18.9276; Producing Loss: 39.3751
+295 epoch ends 
+
+
+296 epoch begins...
+2019-04-28 10:17:16.777021 Train Epoch296: Classification Loss: 18.6452; Producing Loss: 40.2810
+296 epoch ends 
+
+
+297 epoch begins...
+2019-04-28 10:20:09.666083 Train Epoch297: Classification Loss: 18.5842; Producing Loss: 38.6343
+297 epoch ends 
+
+
+298 epoch begins...
+2019-04-28 10:23:02.063045 Train Epoch298: Classification Loss: 18.6836; Producing Loss: 41.6811
+298 epoch ends 
+
+
+299 epoch begins...
+2019-04-28 10:25:54.192791 Train Epoch299: Classification Loss: 18.4030; Producing Loss: 39.8901
+299 epoch ends 
+
+
+300 epoch begins...
+2019-04-28 10:28:47.223508 Train Epoch300: Classification Loss: 19.0984; Producing Loss: 40.1389
+300 epoch ends 
+
+Validation starts ...
+saved to /home/leishi/vqa2019/results/predictions_300epoch.txt
+
+confusion matrix
+[[  4   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8
+    0   0   0   0   4   0   0   0   0   0   0   0   0   1   1   1   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0  37   0   0   0   0   0   0   9   0   0   0   0   2   0   2   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   4   2   0   1   0   0
+    1   0   1   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   1   0   0   3   2   0   0   0   0   0   0   0   0   0   0   0   1
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0  10   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0
+    0   0   0   0   0   0]
+ [  1   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0
+    0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0  13   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   3
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0  10   0   0   0   0   0   0  16   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    1   0   3   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   7   0   0   0   0   1   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0
+    0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   1   0   4   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0  11   0   2   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   4   2   0   0   0   0
+   10   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   5   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   1   0   0   0   1   0   0   0   0   0   0   0   0   0  24   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   5   0   0
+    1   0   1   0   0   0]
+ [  0   3   0   0   2   2   0   0   0   0   0   0   0   0   0   0   0  68
+    0   0   0   0   4   0   0   0   0   0   0   0   0   0   1   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0  16   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0]
+ [  0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0  19   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   2   0   0   1   1   0   0   0   0   0   0   0   0   0   0   0   3
+    0   0   0   0 206   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   1   0   0   0   0   0   0   3   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   6   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   3   0   0   0   0   0   1   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  2   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   1   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   1   0   0  26   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   4   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0  10   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   2   0   0   0   0   0   0   2   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   1   0   0   0   0   0   0   0   0   5   2   0   0   0
+    0   0   0   0   0   0   0   0   0   0   8   1   0   0   0   0   0   0
+    0   4   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   3   0   0   0   0   0   0   0   0   2  18   0   0   0
+    0   0   0   0   0   0   0   0   0   0   6   0   0   0   0   0   0   0
+    0   1   0   0   0   0]
+ [  0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   1   0   0
+    0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   7   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   9
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   1   0   0   1   0   0   0   0   0   0   0   0   1   0   0   0
+    0   0   0   0   1   0   0   0   0   0   0   0   0   1   0   0   0   0
+   60   0   7   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0
+    6   1   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   14   0 100   0   0   0   0   0   0   0   0   0   3   0   0   0   0   0
+    3   0   1   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   6   0   0   1   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   4   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   1   0   2   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   3   0   0   5   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   1   0   3   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   0
+    0   0   0   2   0   0]
+ [  0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0  25   0   0   0   0   0   0   0
+    0   3   0   0   0   0]
+ [  0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   1   0   0   0   0   0   0   0   0   1   5   0   0   0
+    0   0   0   0   0   0   0   0   0   0   1   1   0   0   0   0   0   0
+    0   1   0   0   0   0]
+ [  0   0   4   0   0   0   0   0   0   2   0   0   0   0   1   0   1   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0  62   3   0   2   0   0
+    1   0   0   0   0   0]
+ [  0   0   3   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   1  36   0   0   0   0
+    4   0   1   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   6   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   1   1   0   7   0   0
+    1   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  15   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   5   0   1   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   2   2   0   0   0   0
+  167   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   5   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   6   0   0   0   0   0   0   0
+    0   9   0   0   0   0]
+ [  0   0   5   0   0   0   0   0   0   3   0   0   0   0   1   0   3   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   2   0   0
+    4   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0
+    0   0   0  83   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1
+    0   0   0   0   2   0]
+ [  0   2  43   2   0   6   3   4   0  13   0   1   0   0  26   1   8   7
+    0   6   2   1  52   0   0   0   0   1   0   0   0   9   2   3   0   0
+    0   0   2   0   0   0   0   0   4   0   7   1  39  32   0  14   1   0
+  133   1  15  37   1   0]]
+
+accuracy:  0.588
+
+bleu for abnormality:  0.0019708151992301696
+
+bleu for all answers:  0.1344867106835041
+
+Saving checkpoints
+
+Training Finished
+
+Classification Loss and answer loss for each epoch
+[(191.1502685546875, 633.228182220459), (173.84453999996185, 509.81891810099285), (138.74946546554565, 500.0449077606201), (132.00100350379944, 498.77007853190105), (122.93426656723022, 480.94748369852704), (114.24855047464371, 468.1351245880127), (108.30399936437607, 458.30419896443686), (100.13346242904663, 451.1251778920492), (95.75351935625076, 441.1749698638916), (90.46389085054398, 436.5627658843994), (87.59371101856232, 433.4038973490397), (86.28558492660522, 424.42284800211587), (83.75644659996033, 416.7066926320394), (79.22371029853821, 408.0645960489909), (78.19656330347061, 401.4853400548299), (76.40809768438339, 393.4895471572876), (73.86933535337448, 383.61737600962323), (75.52512741088867, 383.8146427790324), (73.24358266592026, 376.28908723195394), (72.65911954641342, 374.55156383514407), (71.13383287191391, 372.75352001190186), (76.11558556556702, 379.40411745707195), (70.97854572534561, 362.57408854166664), (69.51170134544373, 352.9215638478597), (67.967444896698, 347.0254615783691), (69.0617498755455, 344.2514984130859), (67.33233559131622, 343.5755531311035), (68.4551373720169, 336.1415329615275), (68.47436314821243, 327.83670069376626), (70.18283081054688, 323.20618120829266), (67.8841444849968, 317.81560872395835), (66.49312371015549, 316.58527018229165), (65.40418404340744, 314.39120190938314), (65.46023321151733, 308.39573129018146), (64.37202394008636, 299.8884525299072), (64.38905608654022, 296.85233446756996), (62.69784539937973, 288.704683303833), (62.80976936221123, 287.3451220194499), (63.628622114658356, 285.60076840718585), (63.03361189365387, 284.6210332234701), (61.31487858295441, 279.2327028910319), (60.53506204485893, 274.17471033732096), (59.217876732349396, 276.5265164693197), (58.996878147125244, 280.40766137441), (58.633713722229004, 263.7245754877726), (59.34631958603859, 254.59076086680093), (58.36298877000809, 254.30036837259928), (58.01546069979668, 249.6579806645711), (58.41585111618042, 246.99219830830893), (59.493506878614426, 242.0750851949056), (57.5899293422699, 235.51554571787517), (55.65388277173042, 227.1723958969116), (54.66404891014099, 221.05835520426433), (53.5463348031044, 217.28451166152954), (53.29942932724953, 213.18906326293944), (53.94759392738342, 211.60219065348306), (53.70852646231651, 208.52747933069864), (51.61915236711502, 204.83880554835002), (51.94497588276863, 200.17536869049073), (51.763502687215805, 195.8941449801127), (51.322326600551605, 193.7028612136841), (51.32406643033028, 190.9424207051595), (50.43607994914055, 187.28629557291666), (49.76022291183472, 186.4285155614217), (49.953271478414536, 182.67471431096394), (49.6563486456871, 178.431419022878), (49.434463024139404, 176.91887273788453), (49.68196564912796, 175.19906333287557), (48.4770145714283, 172.1273575146993), (48.59104844927788, 169.61365391413372), (47.711386412382126, 165.83295996983847), (48.19793179631233, 164.28244609832763), (47.6636121571064, 165.06971213022868), (47.430055141448975, 163.61091181437175), (47.00442746281624, 160.1902382214864), (46.26567234098911, 155.11780967712403), (46.1738215982914, 154.23003520965577), (46.31014624238014, 154.84020922978718), (45.32830059528351, 152.20898818969727), (45.58659926056862, 149.7368486404419), (45.4410964846611, 146.95843852361043), (44.78016759455204, 144.79518826802573), (44.135209411382675, 140.43672561645508), (42.87503933906555, 137.35656757354735), (44.02725052833557, 138.4074661572774), (43.209927067160606, 134.3788435300191), (42.76517806947231, 133.88478387196858), (43.0924491584301, 132.57689247131347), (42.64277021586895, 133.51455561319986), (42.797525241971016, 135.77829999923705), (41.79931929707527, 130.24152482350667), (41.90899962186813, 126.71225992838542), (41.49488592147827, 121.92351954778036), (41.45724768936634, 123.22650721867879), (41.1053301692009, 119.96757497787476), (41.19822984933853, 118.0127693494161), (40.29339821636677, 115.82346550623576), (39.86798147857189, 118.5023235321045), (39.02142231166363, 116.9206371307373), (39.63663160800934, 113.27646164894104), (38.97807076573372, 107.86132094065348), (37.47150035202503, 104.74883400599161), (36.74542325735092, 101.76650211016337), (37.450667694211006, 103.024094470342), (36.52662335336208, 101.48317937850952), (36.12619626522064, 100.92741384506226), (35.340025916695595, 97.27879649798075), (36.25641451776028, 96.16264034907023), (35.52034831047058, 97.09811328252157), (35.497272342443466, 96.44800515174866), (35.99661649763584, 95.5455214659373), (34.69207501411438, 92.95100220044453), (34.749984323978424, 92.75994850794474), (34.92115893959999, 93.71287854512532), (34.82485273480415, 91.6212243715922), (34.39024042338133, 93.99659498532613), (34.0377054810524, 91.27397130330404), (34.4725584089756, 85.63205817540486), (34.82141751050949, 85.16063995361328), (34.167282581329346, 89.1693818251292), (34.18612198531628, 88.46313700675964), (33.09393589198589, 90.03369967142741), (33.97180334478617, 85.67410175005595), (32.30102713406086, 85.67951528231303), (32.22176352143288, 84.50588270823161), (31.98543605953455, 84.22951601346334), (31.93091706186533, 80.22500363985698), (32.36136104166508, 83.97586952845255), (32.144901379942894, 81.48093813260397), (32.93369212001562, 81.84065403938294), (31.797279678285122, 79.58526422182719), (32.25563959032297, 82.1417801062266), (32.02931885421276, 76.88750227292378), (31.88582830876112, 75.70240071614583), (31.720906853675842, 78.42084301312765), (30.995216883718967, 73.85788365999858), (32.508684694767, 76.52237354914347), (31.76001985371113, 75.321999279658), (30.71218603104353, 74.21015373865764), (30.630209639668465, 71.18584127426148), (30.590729132294655, 72.32799231211344), (31.377731896936893, 74.67453579902649), (29.73998285084963, 71.3943221728007), (29.03045340627432, 72.25585621198019), (29.57808355242014, 71.76680709520976), (29.82636648416519, 69.85350802739461), (29.496177598834038, 67.82727197011312), (29.70058210939169, 69.00006451606751), (29.2152990847826, 70.43552800814311), (28.791457928717136, 69.42232332229614), (28.648348093032837, 67.73836828867594), (26.99278887361288, 64.88907475471497), (28.362799622118473, 69.5467879931132), (28.020558312535286, 66.39807124137879), (27.274746656417847, 66.17658874193828), (27.099539637565613, 67.29516034126281), (26.81964498013258, 61.12241299947103), (26.605367332696915, 65.06488157908122), (26.12738049775362, 62.218396218617755), (26.14803819358349, 62.95411868890127), (26.166824355721474, 63.36746913592021), (27.003212571144104, 61.159722868601484), (27.112895540893078, 61.15370464324951), (27.009880527853966, 62.770964002609254), (26.487582601606846, 60.14486859639486), (25.290596578270197, 60.693481135368344), (25.750086829066277, 59.075298897425334), (25.976300105452538, 62.507220554351804), (24.98435828089714, 57.29239115715027), (25.867010302841663, 59.94868337313334), (25.560137040913105, 56.553537670771284), (25.64970873296261, 56.15938936074575), (25.60340914130211, 57.693988196055095), (25.120309844613075, 59.36706239382426), (25.22923183441162, 59.58101151784261), (25.15113766491413, 56.207427183787026), (25.555825300514698, 57.52163966496786), (24.64475216716528, 57.656749661763506), (24.37113483250141, 56.41629905700684), (25.066273547708988, 56.843417604764305), (24.516313016414642, 54.97062701384227), (24.930060043931007, 55.346235092480974), (24.74252513051033, 55.352933979034425), (24.12002484500408, 56.23504908879598), (24.43567645549774, 53.992939337094626), (23.54154423624277, 55.50369381904602), (24.22946873307228, 54.84029876391093), (24.717299483716488, 55.6847870349884), (24.45487003773451, 54.55389925638835), (23.743303544819355, 52.129964367548624), (23.428819835186005, 55.12526032129924), (23.798712320625782, 53.15224336783091), (23.113990418612957, 52.34228003025055), (23.081297136843204, 52.15419809023539), (23.334194280207157, 52.99533129533132), (24.265572860836983, 52.333672269185385), (23.34053075313568, 50.55728537241618), (23.407240442931652, 52.24024515151977), (23.44522888958454, 51.48084663550059), (23.127226658165455, 53.54085993766785), (22.645857200026512, 49.6217435836792), (22.41912043094635, 49.3503497838974), (23.105015203356743, 48.75322259267171), (22.594868823885918, 47.77027776241302), (22.078722782433033, 47.73319501082103), (22.002893432974815, 47.436303448677066), (22.32697706669569, 48.920346371332805), (22.49162743240595, 49.163213181495664), (21.427153535187244, 48.31899223327637), (21.523060336709023, 47.539190888404846), (21.823700070381165, 45.29624715646108), (21.774955742061138, 50.361524963378905), (20.767162039875984, 47.281900787353514), (22.093090876936913, 47.41346952120463), (21.408485993742943, 43.69599190553029), (21.71633267775178, 46.189352130889894), (21.19582026451826, 48.67802789211273), (21.099515356123447, 45.82255841096242), (21.38225655257702, 46.62178171475728), (21.522944301366806, 45.49288391272227), (21.86053328216076, 47.3327782869339), (21.364358469843864, 46.58646188577016), (21.21813378483057, 46.27858117421468), (21.681989297270775, 44.312484590212506), (20.686292193830013, 46.698514477411905), (21.187863662838936, 47.26650816599528), (21.31575819849968, 46.3628125667572), (20.854348488152027, 47.74937415122986), (20.53438215702772, 46.80755487283071), (20.6482008472085, 45.704367351531985), (21.02095077931881, 43.76403177579244), (20.25896791368723, 45.86325408617655), (20.802594274282455, 44.15839748382568), (21.142940245568752, 46.40621445178986), (20.461247764527798, 44.15559480190277), (20.674220018088818, 44.77228318055471), (20.790680684149265, 46.10047020117442), (20.3141822591424, 46.46409273147583), (20.135209210217, 44.20317066510518), (19.566154215484858, 42.42060107390086), (20.72227294743061, 43.29856847922007), (20.19537854939699, 44.69989269574483), (19.979361727833748, 43.60848008791606), (20.707025960087776, 44.09662535985311), (19.91857446730137, 44.97339719136556), (20.964461140334606, 43.39195239543915), (19.53865084797144, 42.15374442736308), (20.17948677390814, 43.6128676255544), (20.332634583115578, 40.944473584493004), (19.508272994309664, 41.90099014441172), (20.26315002515912, 43.72180732091268), (20.30360210686922, 42.39187338352203), (19.91179295629263, 41.06207716464996), (19.724915884435177, 40.87066448529561), (20.136797733604908, 44.73050076166789), (19.955762296915054, 44.029016955693564), (19.155804380774498, 42.298851855595906), (20.174308016896248, 42.38490611712138), (19.64339016377926, 43.5941916624705), (19.800237841904163, 40.714962887763974), (19.23236995190382, 42.84391164779663), (18.881206698715687, 41.066915861765544), (19.084357552230358, 43.10360249678294), (19.07414308935404, 41.659125900268556), (19.241497181355953, 42.25807344118754), (18.9221912920475, 40.74343609015147), (19.18929135799408, 42.899370249112444), (19.7470645532012, 40.574644176165265), (19.036216899752617, 39.57575090726217), (19.623186610639095, 43.84393892288208), (19.094431586563587, 40.034495162963864), (19.058654084801674, 41.87450298468272), (19.063541248440742, 40.59930873711904), (19.067181013524532, 41.26032985051473), (19.316717244684696, 40.81333174705505), (18.98344813287258, 39.915565085411075), (18.69455234706402, 39.713603258132935), (18.388174131512642, 40.76736676692963), (18.744356486946344, 41.60996669133504), (19.383967578411102, 40.408290298779804), (18.982444755733013, 41.60219910939534), (18.93566319346428, 41.319827659924826), (19.1419847458601, 40.85595057805379), (19.005522929131985, 39.271438066164656), (19.67405926436186, 41.146057677268985), (18.66096045076847, 40.50806191762288), (19.28737821429968, 39.51940880616506), (18.236061982810497, 40.13609648545583), (18.788390964269638, 40.27790168126424), (18.026411280035973, 41.825138958295184), (18.71085364371538, 42.3924001455307), (18.232222586870193, 37.006804609298705), (18.435013562440872, 39.45076944033305), (18.700238309800625, 38.48647176424662), (18.927580170333385, 39.37514511744181), (18.645193748176098, 40.28095847765605), (18.58421529829502, 38.63427000045776), (18.683637522161007, 41.681108037630715), (18.40298766642809, 39.8901264111201), (19.098366610705853, 40.13893937269847)]
+
+Final Result
+saved to /home/leishi/vqa2019/results/predictions_final.txt
+
+ confusion matrix
+[[  4   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8
+    0   0   0   0   4   0   0   0   0   0   0   0   0   1   1   1   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0  37   0   0   0   0   0   0   9   0   0   0   0   2   0   2   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   4   2   0   1   0   0
+    1   0   1   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   1   0   0   3   2   0   0   0   0   0   0   0   0   0   0   0   1
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0  10   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0
+    0   0   0   0   0   0]
+ [  1   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0
+    0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0  13   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   3
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0  10   0   0   0   0   0   0  16   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    1   0   3   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   7   0   0   0   0   1   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0
+    0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   1   0   4   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0  11   0   2   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   4   2   0   0   0   0
+   10   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   5   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   1   0   0   0   1   0   0   0   0   0   0   0   0   0  24   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   5   0   0
+    1   0   1   0   0   0]
+ [  0   3   0   0   2   2   0   0   0   0   0   0   0   0   0   0   0  68
+    0   0   0   0   4   0   0   0   0   0   0   0   0   0   1   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0  16   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0]
+ [  0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0  19   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   2   0   0   1   1   0   0   0   0   0   0   0   0   0   0   0   3
+    0   0   0   0 206   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   1   0   0   0   0   0   0   3   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   6   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   3   0   0   0   0   0   1   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  2   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   1   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   1   0   0  26   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   4   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0  10   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   2   0   0   0   0   0   0   2   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   1   0   0   0   0   0   0   0   0   5   2   0   0   0
+    0   0   0   0   0   0   0   0   0   0   8   1   0   0   0   0   0   0
+    0   4   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   3   0   0   0   0   0   0   0   0   2  18   0   0   0
+    0   0   0   0   0   0   0   0   0   0   6   0   0   0   0   0   0   0
+    0   1   0   0   0   0]
+ [  0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   1   0   0
+    0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   7   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   9
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   1   0   0   1   0   0   0   0   0   0   0   0   1   0   0   0
+    0   0   0   0   1   0   0   0   0   0   0   0   0   1   0   0   0   0
+   60   0   7   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0
+    6   1   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   14   0 100   0   0   0   0   0   0   0   0   0   3   0   0   0   0   0
+    3   0   1   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   6   0   0   1   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   4   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   1   0   2   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   3   0   0   5   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   1   0   3   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   0
+    0   0   0   2   0   0]
+ [  0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0  25   0   0   0   0   0   0   0
+    0   3   0   0   0   0]
+ [  0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   1   0   0   0   0   0   0   0   0   1   5   0   0   0
+    0   0   0   0   0   0   0   0   0   0   1   1   0   0   0   0   0   0
+    0   1   0   0   0   0]
+ [  0   0   4   0   0   0   0   0   0   2   0   0   0   0   1   0   1   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0  62   3   0   2   0   0
+    1   0   0   0   0   0]
+ [  0   0   3   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   1  36   0   0   0   0
+    4   0   1   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   6   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   1   1   0   7   0   0
+    1   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  15   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   5   0   1   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   2   2   0   0   0   0
+  167   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   5   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   6   0   0   0   0   0   0   0
+    0   9   0   0   0   0]
+ [  0   0   5   0   0   0   0   0   0   3   0   0   0   0   1   0   3   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   2   0   0
+    4   0   0   0   0   0]
+ [  0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0
+    0   0   0  83   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1
+    0   0   0   0   2   0]
+ [  0   2  43   2   0   6   3   4   0  13   0   1   0   0  26   1   8   7
+    0   6   2   1  52   0   0   0   0   1   0   0   0   9   2   3   0   0
+    0   0   2   0   0   0   0   0   4   0   7   1  39  32   0  14   1   0
+  133   1  15  37   1   0]]
+
+accuracy:  0.588
+
+bleu for abnormality:  0.0019708151992301696
+
+bleu for all answers:  0.1344867106835041
+
+Saving the final model...
+Model saved at /home/leishi/vqa2019/models/pretrained/2019042810_model.pt

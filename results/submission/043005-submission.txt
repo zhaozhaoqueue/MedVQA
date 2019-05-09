@@ -1,0 +1,500 @@
+synpic54082|ct w/contrast (iv)
+synpic48556|yes
+synpic50696|iv
+synpic37194|us - ultrasound
+synpic31308|an - angiogram
+synpic24739|t2
+synpic32365|no
+synpic47936|iv
+synpic29792|no
+synpic43561|yes
+synpic40732|mr - flair
+synpic33904|no
+synpic39583|yes
+synpic39568|xr - plain film
+synpic27024|yes
+synpic25155|flair
+synpic52493|xr - plain film
+synpic53941|ct noncontrast
+synpic58343|mr - t1w - noncontrast
+synpic48150|yes
+synpic26892|no
+synpic48805|no
+synpic41996|yes
+synpic52901|t2
+synpic26702|no
+synpic36075|no
+synpic15874|no
+synpic28538|xr - plain film
+synpic45924|mr - adc map (app diff coeff)
+synpic24458|ct with gi and iv contrast
+synpic34139|xr - plain film
+synpic58746|noncontrast
+synpic36276|no
+synpic46949|us - ultrasound
+synpic60018|t2
+synpic14955|ct w/contrast (iv)
+synpic38267|yes
+synpic18809|ct w/contrast (iv)
+synpic55706|yes
+synpic51206|no
+synpic46829|no
+synpic24706|no
+synpic22377|an - angiogram
+synpic43979|us-d - doppler ultrasound
+synpic32831|yes
+synpic33285|no
+synpic55100|no
+synpic48384|ct w/contrast (iv)
+synpic59289|iv
+synpic54975|yes
+synpic51170|no
+synpic40069|noncontrast
+synpic51160|mr - flair
+synpic18560|contrast
+synpic51606|an - angiogram
+synpic19859|xr - plain film
+synpic27747|yes
+synpic13384|us-d - doppler ultrasound
+synpic59702|no
+synpic60197|no
+synpic56425|an - angiogram
+synpic33295|ct with gi and iv contrast
+synpic43772|yes
+synpic56394|ct with iv contrast
+synpic33518|noncontrast
+synpic28138|yes
+synpic31469|contrast
+synpic35155|ct with iv contrast
+synpic40333|us - ultrasound
+synpic41011|no
+synpic51202|mr - t2 weighted
+synpic44800|contrast
+synpic59851|xr - plain film
+synpic35747|ct noncontrast
+synpic54150|mr - t1w w/gadolinium
+synpic25024|yes
+synpic34128|xr - plain film
+synpic45935|contrast
+synpic19086|ct with iv contrast
+synpic35578|yes
+synpic51767|ct with gi and iv contrast
+synpic27197|no
+synpic44430|noncontrast
+synpic46964|cta - ct angiography
+synpic41979|an - angiogram
+synpic32773|us - ultrasound
+synpic31285|xr - plain film
+synpic40440|yes
+synpic22366|us - ultrasound
+synpic100408|xr - plain film
+synpic50733|yes
+synpic49262|no
+synpic27752|an - angiogram
+synpic53951|yes
+synpic24501|xr - plain film
+synpic52497|no
+synpic47924|xr - plain film
+synpic22825|ct noncontrast
+synpic18213|xr - plain film
+synpic34909|no
+synpic56154|no
+synpic39585|t2
+synpic16994|t2
+synpic51407|yes
+synpic37609|mr - adc map (app diff coeff)
+synpic27432|xr - plain film
+synpic28715|no
+synpic53600|no
+synpic40697|no
+synpic41589|ct with iv contrast
+synpic24310|no
+synpic51770|yes
+synpic47890|ct with iv contrast
+synpic40127|t1
+synpic37634|no
+synpic26922|us - ultrasound
+synpic37740|t2
+synpic28890|noncontrast
+synpic49513|mr - t1w w/gadolinium
+synpic52133|an - angiogram
+synpic24258|yes
+synpic21334|yes
+synpic45842|no
+synpic37595|xr - plain film
+synpic55335|no
+synpic56130|axial
+synpic21435|axial
+synpic39252|axial
+synpic23785|axial
+synpic58323|axial
+synpic51449|axial
+synpic39087|axial
+synpic16716|coronal
+synpic54525|axial
+synpic38372|axial
+synpic39865|axial
+synpic58519|axial
+synpic26986|pa
+synpic58294|axial
+synpic24161|transverse
+synpic26010|lateral
+synpic36217|axial
+synpic56736|sagittal
+synpic44454|axial
+synpic54653|axial
+synpic56044|coronal
+synpic21569|sagittal
+synpic59376|axial
+synpic55564|axial
+synpic34367|lateral
+synpic48079|axial
+synpic35657|ap
+synpic27290|coronal
+synpic29040|ap
+synpic27737|lateral
+synpic39290|axial
+synpic27906|axial
+synpic58863|coronal
+synpic46888|axial
+synpic20264|axial
+synpic38359|coronal
+synpic36374|axial
+synpic41842|axial
+synpic21783|ap
+synpic57403|coronal
+synpic17769|axial
+synpic59360|lateral
+synpic15817|ap
+synpic51932|axial
+synpic32067|axial
+synpic16112|axial
+synpic39867|axial
+synpic35132|axial
+synpic28605|axial
+synpic56442|sagittal
+synpic52142|axial
+synpic51311|axial
+synpic41102|axial
+synpic37080|axial
+synpic54719|axial
+synpic43507|oblique
+synpic58325|axial
+synpic55832|sagittal
+synpic43936|axial
+synpic61201|sagittal
+synpic18885|coronal
+synpic44136|transverse
+synpic16894|sagittal
+synpic51261|axial
+synpic34406|sagittal
+synpic41927|axial
+synpic50433|coronal
+synpic26566|axial
+synpic53852|axial
+synpic41503|axial
+synpic45003|axial
+synpic25536|axial
+synpic41932|axial
+synpic20466|sagittal
+synpic16881|ap
+synpic52027|coronal
+synpic32894|ap
+synpic35645|axial
+synpic27282|axial
+synpic37250|axial
+synpic27725|axial
+synpic17194|longitudinal
+synpic21397|sagittal
+synpic52423|lateral
+synpic42156|axial
+synpic51894|axial
+synpic38836|axial
+synpic54736|axial
+synpic53065|axial
+synpic43510|transverse
+synpic53717|axial
+synpic60336|axial
+synpic8584|axial
+synpic43048|axial
+synpic27294|coronal
+synpic28170|ap
+synpic100253|ap
+synpic37124|axial
+synpic54130|coronal
+synpic27647|lateral
+synpic41919|axial
+synpic57835|axial
+synpic23193|3d reconstruction
+synpic27256|ap
+synpic32897|ap
+synpic53299|sagittal
+synpic32698|ap
+synpic49799|axial
+synpic60451|lateral
+synpic51667|axial
+synpic53064|axial
+synpic59213|axial
+synpic53981|axial
+synpic53995|axial
+synpic59260|axial
+synpic56806|coronal
+synpic55670|axial
+synpic23916|axial
+synpic47328|sagittal
+synpic50132|axial
+synpic28076|axial
+synpic44351|sagittal
+synpic24314|oblique
+synpic31739|mammo - mlo
+synpic25598|ap
+synpic16333|skull and contents
+synpic53848|skull and contents
+synpic31015|skull and contents
+synpic56918|skull and contents
+synpic26227|skull and contents
+synpic31996|skull and contents
+synpic40809|skull and contents
+synpic46288|skull and contents
+synpic58908|skull and contents
+synpic37465|skull and contents
+synpic57420|spine and contents
+synpic28035|skull and contents
+synpic18684|genitourinary
+synpic40389|skull and contents
+synpic26781|musculoskeletal
+synpic32938|lung, mediastinum, pleura
+synpic40410|skull and contents
+synpic35919|skull and contents
+synpic48716|skull and contents
+synpic34030|musculoskeletal
+synpic33039|heart and great vessels
+synpic19161|breast
+synpic40028|lung, mediastinum, pleura
+synpic43535|lung, mediastinum, pleura
+synpic53726|heart and great vessels
+synpic51866|face, sinuses, and neck
+synpic20053|lung, mediastinum, pleura
+synpic4164|musculoskeletal
+synpic20286|gastrointestinal
+synpic16734|heart and great vessels
+synpic36341|skull and contents
+synpic55037|skull and contents
+synpic33417|skull and contents
+synpic22526|lung, mediastinum, pleura
+synpic21749|face, sinuses, and neck
+synpic59180|genitourinary
+synpic34807|skull and contents
+synpic50359|spine and contents
+synpic26581|musculoskeletal
+synpic56072|spine and contents
+synpic49807|genitourinary
+synpic27890|spine and contents
+synpic37328|skull and contents
+synpic50370|skull and contents
+synpic32052|face, sinuses, and neck
+synpic42589|spine and contents
+synpic56271|skull and contents
+synpic46738|gastrointestinal
+synpic50006|gastrointestinal
+synpic50984|genitourinary
+synpic26351|skull and contents
+synpic19837|face, sinuses, and neck
+synpic56107|skull and contents
+synpic19614|heart and great vessels
+synpic56103|gastrointestinal
+synpic9653|skull and contents
+synpic49779|face, sinuses, and neck
+synpic39275|gastrointestinal
+synpic30245|heart and great vessels
+synpic45180|skull and contents
+synpic26194|gastrointestinal
+synpic53251|genitourinary
+synpic16094|lung, mediastinum, pleura
+synpic36422|skull and contents
+synpic35881|skull and contents
+synpic25310|skull and contents
+synpic28973|gastrointestinal
+synpic50638|lung, mediastinum, pleura
+synpic49369|gastrointestinal
+synpic36218|genitourinary
+synpic47608|skull and contents
+synpic46516|skull and contents
+synpic55230|skull and contents
+synpic39301|skull and contents
+synpic12184|gastrointestinal
+synpic35275|heart and great vessels
+synpic39472|gastrointestinal
+synpic19991|skull and contents
+synpic38220|skull and contents
+synpic41907|skull and contents
+synpic38591|skull and contents
+synpic25311|skull and contents
+synpic47557|lung, mediastinum, pleura
+synpic50003|lung, mediastinum, pleura
+synpic18251|skull and contents
+synpic16242|genitourinary
+synpic47964|skull and contents
+synpic25139|genitourinary
+synpic56302|face, sinuses, and neck
+synpic52164|heart and great vessels
+synpic45430|skull and contents
+synpic38424|face, sinuses, and neck
+synpic18938|musculoskeletal
+synpic54475|skull and contents
+synpic46071|skull and contents
+synpic16108|genitourinary
+synpic26975|gastrointestinal
+synpic41736|musculoskeletal
+synpic52038|skull and contents
+synpic41044|skull and contents
+synpic26752|skull and contents
+synpic21029|gastrointestinal
+synpic28025|genitourinary
+synpic27699|skull and contents
+synpic44464|face, sinuses, and neck
+synpic58717|skull and contents
+synpic47804|lung, mediastinum, pleura
+synpic16487|skull and contents
+synpic19950|gastrointestinal
+synpic33613|spine and contents
+synpic47187|skull and contents
+synpic58925|skull and contents
+synpic58716|skull and contents
+synpic42982|lung, mediastinum, pleura
+synpic50835|spine and contents
+synpic31561|vascular and lymphatic
+synpic37104|skull and contents
+synpic22284|skull and contents
+synpic21941|lung, mediastinum, pleura
+synpic35129|lung, mediastinum, pleura
+synpic26814|skull and contents
+synpic100313|gastrointestinal
+synpic454|musculoskeletal
+synpic50558|skull and contents
+synpic55352|skull and contents
+synpic47476|multiple nerve with
+synpic58354|yes
+synpic39386|pulmonary hamartoma pulmonary
+synpic25627|sickle dysplasia
+synpic49505|no
+synpic28985|spermatocele pyloric
+synpic29794|yes
+synpic45122|yes
+synpic100563|vertebral cell the the
+synpic25614|calcium aortic dihydrate
+synpic53988|nonsmall cell
+synpic23260|no reversible
+synpic18584|carotid large
+synpic36889|guillainbarre
+synpic55889|ankylosing of
+synpic47679|medullary nephrocalcinosis
+synpic48238|multiple epidural
+synpic23472|metastatic artery disease
+synpic20621|ankylosing spondylitis
+synpic33890|cavernous
+synpic21502|trauma pneumonia
+synpic23315|inflammatory eosinophilic
+synpic59863|schwannoma
+synpic52063|congenital hemangioma
+synpic43973|ruptured hemangioma
+synpic33264|bochdalek hernia
+synpic35832|cerebral infarction
+synpic36678|choroid plexus
+synpic36693|hypothalamic
+synpic59524|meningioma
+synpic23288|hepatoblastoma
+synpic58148|meningioma hypoxic
+synpic54202|jejunal atresia
+synpic54570|ependymoma
+synpic25389|traumatic aortic
+synpic28646|ruptured
+synpic35171|renal
+synpic45521|intracranial
+synpic42299|ependymal infarction
+synpic56944|calcium pyrophosphate enlargement
+synpic38736|medullary hemangioma
+synpic31074|bucket patellar
+synpic31921|ruptured s
+synpic59690|benign
+synpic50844|langerhan
+synpic31510|acute pancreatitis
+synpic58565|brain reversible calcifications
+synpic48819|pectus interstitial
+synpic43958|gastric
+synpic19471|right fracture
+synpic51409|pulmonary hernia
+synpic46175|facial
+synpic41140|diverticulitis
+synpic19459|vertebral aneurysm
+synpic59243|avm s disease
+synpic23931|segond
+synpic52110|schwannoma
+synpic24938|schwannoma sclerosis
+synpic44969|tuberous sclerosis
+synpic41839|astrocytoma pilocytic
+synpic100560|cavernous
+synpic40312|<UNKNOWN>
+synpic39606|chiari malformation malformation
+synpic35996|paradoxic subarachnoid hemorrhage
+synpic54398|pancreatic
+synpic57322|hepatic adenocarcinoma
+synpic22025|ovarian
+synpic24332|compound
+synpic31918|endometrial
+synpic33464|metastatic ductal
+synpic24681|sagittal coronal
+synpic19500|ruptured
+synpic28642|anterior of
+synpic60174|juvenile sclerosis
+synpic28495|avulsion fracture
+synpic51803|tbi of contusion longitudinal temporal bone
+synpic28324|crohn s
+synpic50710|dural s
+synpic60189|mature cellulitis
+synpic59091|carotid lymphomatosis sources and
+synpic39017|glioblastoma profile
+synpic37984|diastematomyelia of in
+synpic53580|brain astrocytoma
+synpic50923|extraventricular neurocytoma
+synpic32787|acute
+synpic35942|ewing herniated
+synpic16143|autosomal
+synpic36293|bronchopleural hernia
+synpic55708|arachnoid of
+synpic23846|cardiogenic pulmonary edema – chf exacerbation secondary to new
+synpic58210|epidermoid
+synpic34453|pleomorphic trauma
+synpic24668|myxoid hodgkins lymphoma
+synpic25012|arachnoid cyst
+synpic51792|orbital lymphoma
+synpic25761|horseshoe kidney
+synpic51976|paraganglioma tendon
+synpic53807|megacystis dysplasia
+synpic18351|spine of
+synpic43433|hemochromatosis
+synpic28709|morgagni
+synpic58577|hepatic bilateral of the
+synpic47443|anaplastic type
+synpic50705|os malformation avm
+synpic49254|brain
+synpic43590|no
+synpic53967|glioblastoma neurocytoma
+synpic45637|cerebral infarction
+synpic33979|esophageal dysplasia
+synpic47008|rupture
+synpic58869|hodgkin s
+synpic38637|arachnoid
+synpic39501|inflammatory atresia
+synpic47961|proximal focal fracture
+synpic47550|langerhans
+synpic55154|cephalocele
+synpic28154|plantar
+synpic58276|no
+synpic39844|multiple cyst
+synpic24183|orbital
+synpic21789|retroperitoneal
+synpic39878|brain disseminated
+synpic41525|juvenile
+synpic18173|no
+synpic54143|arachnoid cyst

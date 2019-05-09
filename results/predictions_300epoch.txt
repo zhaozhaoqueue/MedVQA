@@ -1,0 +1,2000 @@
+47|ct with iv contrast
+67|xr - plain film
+44|yes
+34|t2
+46|no
+44|yes
+48|iv
+46|no
+67|xr - plain film
+46|no
+50|ct noncontrast
+67|xr - plain film
+44|yes
+42|contrast
+15|mr - t1w - noncontrast
+62|t1
+46|no
+67|xr - plain film
+67|xr - plain film
+67|xr - plain film
+46|no
+67|xr - plain film
+44|yes
+67|xr - plain film
+46|no
+67|xr - plain film
+25|us - ultrasound
+13|mr - t2 weighted
+46|no
+67|xr - plain film
+59|mammograph
+46|no
+9|noncontrast
+25|us - ultrasound
+23|mr - adc map (app diff coeff)
+34|t2
+46|no
+34|t2
+33|mr - other pulse seq.
+34|t2
+67|xr - plain film
+9|noncontrast
+67|xr - plain film
+67|xr - plain film
+67|xr - plain film
+34|t2
+67|xr - plain film
+25|us - ultrasound
+44|yes
+67|xr - plain film
+44|yes
+67|xr - plain film
+36|be - barium enema
+36|be - barium enema
+46|no
+47|ct with iv contrast
+62|t1
+46|no
+52|bas - barium swallow
+25|us - ultrasound
+67|xr - plain film
+46|no
+15|mr - t1w - noncontrast
+0|mra - mr angiography/venography
+44|yes
+44|yes
+44|yes
+15|mr - t1w - noncontrast
+47|ct with iv contrast
+13|mr - t2 weighted
+9|noncontrast
+44|yes
+67|xr - plain film
+49|ct - gi & iv contrast
+46|no
+18|mr - t1w w/gadolinium
+46|no
+62|t1
+35|mr - flair
+42|contrast
+67|xr - plain film
+15|mr - t1w - noncontrast
+44|yes
+46|no
+34|t2
+42|contrast
+18|mr - t1w w/gadolinium
+46|no
+47|ct with iv contrast
+59|mammograph
+67|xr - plain film
+63|mr - fiesta
+46|no
+67|xr - plain film
+44|yes
+67|xr - plain film
+67|xr - plain film
+46|no
+24|an - angiogram
+34|t2
+34|t2
+9|noncontrast
+46|no
+34|t2
+46|no
+46|no
+62|t1
+9|noncontrast
+25|us - ultrasound
+18|mr - t1w w/gadolinium
+67|xr - plain film
+44|yes
+35|mr - flair
+67|xr - plain film
+46|no
+44|yes
+46|no
+46|no
+13|mr - t2 weighted
+68|mr - pdw proton density
+47|ct with iv contrast
+67|xr - plain film
+67|xr - plain film
+28|ugi - upper gi
+44|yes
+24|an - angiogram
+46|no
+46|no
+62|t1
+50|ct noncontrast
+46|no
+46|no
+67|xr - plain film
+44|yes
+9|noncontrast
+46|no
+42|contrast
+24|an - angiogram
+8|cta - ct angiography
+34|t2
+44|yes
+46|no
+44|yes
+67|xr - plain film
+44|yes
+67|xr - plain film
+46|no
+34|t2
+44|yes
+24|an - angiogram
+67|xr - plain film
+46|no
+35|mr - flair
+67|xr - plain film
+30|flair
+42|contrast
+44|yes
+46|no
+25|us - ultrasound
+44|yes
+44|yes
+67|xr - plain film
+28|ugi - upper gi
+46|no
+47|ct with iv contrast
+67|xr - plain film
+46|no
+44|yes
+46|no
+35|mr - flair
+44|yes
+9|noncontrast
+46|no
+35|mr - flair
+44|yes
+8|cta - ct angiography
+26|sbft - small bowel
+46|no
+24|an - angiogram
+67|xr - plain film
+46|no
+9|noncontrast
+15|mr - t1w - noncontrast
+44|yes
+30|flair
+51|ct w/contrast (iv)
+50|ct noncontrast
+62|t1
+46|no
+67|xr - plain film
+47|ct with iv contrast
+46|no
+44|yes
+67|xr - plain film
+51|ct w/contrast (iv)
+0|mra - mr angiography/venography
+67|xr - plain film
+46|no
+25|us - ultrasound
+44|yes
+46|no
+46|no
+13|mr - t2 weighted
+47|ct with iv contrast
+34|t2
+44|yes
+0|mra - mr angiography/venography
+46|no
+50|ct noncontrast
+46|no
+67|xr - plain film
+67|xr - plain film
+35|mr - flair
+67|xr - plain film
+46|no
+67|xr - plain film
+67|xr - plain film
+59|mammograph
+25|us - ultrasound
+67|xr - plain film
+68|mr - pdw proton density
+46|no
+46|no
+45|gi and iv
+18|mr - t1w w/gadolinium
+18|mr - t1w w/gadolinium
+48|iv
+9|noncontrast
+46|no
+46|no
+67|xr - plain film
+34|t2
+44|yes
+48|iv
+42|contrast
+34|t2
+46|no
+46|no
+34|t2
+8|cta - ct angiography
+25|us - ultrasound
+46|no
+46|no
+44|yes
+34|t2
+62|t1
+8|cta - ct angiography
+67|xr - plain film
+67|xr - plain film
+46|no
+46|no
+62|t1
+44|yes
+25|us - ultrasound
+34|t2
+44|yes
+46|no
+14|ct with gi and iv contrast
+25|us - ultrasound
+34|t2
+46|no
+67|xr - plain film
+25|us - ultrasound
+34|t2
+67|xr - plain film
+28|ugi - upper gi
+46|no
+30|flair
+67|xr - plain film
+67|xr - plain film
+46|no
+44|yes
+46|no
+46|no
+67|xr - plain film
+41|mr t2* gradient,gre,mpgr,swan,swi
+34|t2
+46|no
+44|yes
+44|yes
+9|noncontrast
+44|yes
+44|yes
+67|xr - plain film
+34|t2
+44|yes
+24|an - angiogram
+0|mra - mr angiography/venography
+67|xr - plain film
+59|mammograph
+67|xr - plain film
+25|us - ultrasound
+46|no
+47|ct with iv contrast
+47|ct with iv contrast
+46|no
+44|yes
+46|no
+44|yes
+15|mr - t1w - noncontrast
+44|yes
+67|xr - plain film
+67|xr - plain film
+0|mra - mr angiography/venography
+67|xr - plain film
+9|noncontrast
+24|an - angiogram
+24|an - angiogram
+46|no
+46|no
+48|iv
+67|xr - plain film
+24|an - angiogram
+67|xr - plain film
+24|an - angiogram
+44|yes
+44|yes
+47|ct with iv contrast
+46|no
+46|no
+67|xr - plain film
+59|mammograph
+62|t1
+44|yes
+34|t2
+9|noncontrast
+46|no
+44|yes
+46|no
+46|no
+24|an - angiogram
+30|flair
+44|yes
+44|yes
+47|ct with iv contrast
+44|yes
+46|no
+44|yes
+46|no
+67|xr - plain film
+59|mammograph
+36|be - barium enema
+46|no
+42|contrast
+15|mr - t1w - noncontrast
+24|an - angiogram
+25|us - ultrasound
+62|t1
+24|an - angiogram
+46|no
+67|xr - plain film
+46|no
+25|us - ultrasound
+9|noncontrast
+44|yes
+62|t1
+33|mr - other pulse seq.
+67|xr - plain film
+46|no
+46|no
+46|no
+62|t1
+46|no
+0|mra - mr angiography/venography
+46|no
+35|mr - flair
+25|us - ultrasound
+67|xr - plain film
+24|an - angiogram
+46|no
+67|xr - plain film
+46|no
+42|contrast
+13|mr - t2 weighted
+67|xr - plain film
+42|contrast
+46|no
+46|no
+34|t2
+44|yes
+67|xr - plain film
+46|no
+67|xr - plain film
+46|no
+49|ct - gi & iv contrast
+67|xr - plain film
+44|yes
+44|yes
+67|xr - plain film
+30|flair
+42|contrast
+28|ugi - upper gi
+34|t2
+44|yes
+67|xr - plain film
+35|mr - flair
+46|no
+35|mr - flair
+9|noncontrast
+67|xr - plain film
+25|us - ultrasound
+9|noncontrast
+36|be - barium enema
+24|an - angiogram
+46|no
+9|noncontrast
+67|xr - plain film
+35|mr - flair
+13|mr - t2 weighted
+44|yes
+67|xr - plain film
+51|ct w/contrast (iv)
+44|yes
+34|t2
+42|contrast
+25|us - ultrasound
+44|yes
+62|t1
+46|no
+0|mra - mr angiography/venography
+68|mr - pdw proton density
+67|xr - plain film
+59|mammograph
+25|us - ultrasound
+13|mr - t2 weighted
+9|noncontrast
+8|cta - ct angiography
+44|yes
+67|xr - plain film
+67|xr - plain film
+24|an - angiogram
+62|t1
+44|yes
+44|yes
+34|t2
+30|flair
+46|no
+44|yes
+25|us - ultrasound
+51|ct w/contrast (iv)
+13|mr - t2 weighted
+62|t1
+52|bas - barium swallow
+62|t1
+46|no
+67|xr - plain film
+35|mr - flair
+44|yes
+46|no
+46|no
+67|xr - plain film
+18|mr - t1w w/gadolinium
+24|an - angiogram
+59|mammograph
+45|gi and iv
+13|mr - t2 weighted
+44|yes
+9|noncontrast
+46|no
+44|yes
+44|yes
+44|yes
+44|yes
+67|xr - plain film
+67|xr - plain film
+62|t1
+59|mammograph
+46|no
+42|contrast
+46|no
+8|cta - ct angiography
+47|ct with iv contrast
+46|no
+35|mr - flair
+44|yes
+46|no
+9|noncontrast
+8|cta - ct angiography
+67|xr - plain film
+50|ct noncontrast
+36|be - barium enema
+50|ct noncontrast
+0|mra - mr angiography/venography
+62|t1
+67|xr - plain film
+34|t2
+44|yes
+46|no
+46|no
+51|ct w/contrast (iv)
+46|no
+62|t1
+67|xr - plain film
+34|t2
+44|yes
+44|yes
+67|xr - plain film
+44|yes
+30|flair
+9|noncontrast
+27|axial
+37|frontal
+27|axial
+27|axial
+22|sagittal
+27|axial
+27|axial
+27|axial
+65|pa
+22|sagittal
+27|axial
+65|pa
+22|sagittal
+27|axial
+1|coronal
+22|sagittal
+27|axial
+55|ap
+55|ap
+38|lateral
+22|sagittal
+38|lateral
+27|axial
+55|ap
+1|coronal
+38|lateral
+6|transverse
+27|axial
+27|axial
+55|ap
+32|mammo - mlo
+27|axial
+1|coronal
+5|longitudinal
+27|axial
+27|axial
+27|axial
+1|coronal
+1|coronal
+1|coronal
+55|ap
+27|axial
+55|ap
+65|pa
+1|coronal
+22|sagittal
+55|ap
+22|sagittal
+27|axial
+65|pa
+1|coronal
+55|ap
+37|frontal
+37|frontal
+27|axial
+27|axial
+22|sagittal
+22|sagittal
+38|lateral
+5|longitudinal
+55|ap
+27|axial
+27|axial
+27|axial
+27|axial
+22|sagittal
+27|axial
+22|sagittal
+1|coronal
+27|axial
+27|axial
+1|coronal
+37|frontal
+27|axial
+27|axial
+1|coronal
+27|axial
+22|sagittal
+27|axial
+27|axial
+65|pa
+22|sagittal
+22|sagittal
+27|axial
+27|axial
+22|sagittal
+27|axial
+27|axial
+27|axial
+3|mammo - cc
+38|lateral
+22|sagittal
+1|coronal
+55|ap
+27|axial
+38|lateral
+55|ap
+22|sagittal
+27|axial
+27|axial
+22|sagittal
+27|axial
+27|axial
+22|sagittal
+27|axial
+27|axial
+27|axial
+27|axial
+6|transverse
+22|sagittal
+55|ap
+1|coronal
+1|coronal
+55|ap
+1|coronal
+27|axial
+27|axial
+27|axial
+27|axial
+22|sagittal
+27|axial
+37|frontal
+38|lateral
+55|ap
+1|coronal
+38|lateral
+1|coronal
+27|axial
+1|coronal
+22|sagittal
+27|axial
+27|axial
+55|ap
+27|axial
+27|axial
+27|axial
+27|axial
+65|pa
+1|coronal
+1|coronal
+27|axial
+1|coronal
+22|sagittal
+38|lateral
+27|axial
+55|ap
+22|sagittal
+27|axial
+27|axial
+55|ap
+55|ap
+27|axial
+27|axial
+55|ap
+27|axial
+27|axial
+27|axial
+27|axial
+5|longitudinal
+1|coronal
+27|axial
+37|frontal
+37|frontal
+27|axial
+27|axial
+65|pa
+27|axial
+27|axial
+27|axial
+27|axial
+55|ap
+27|axial
+27|axial
+27|axial
+22|sagittal
+27|axial
+27|axial
+27|axial
+55|ap
+37|frontal
+1|coronal
+27|axial
+27|axial
+27|axial
+27|axial
+1|coronal
+22|sagittal
+22|sagittal
+1|coronal
+55|ap
+27|axial
+22|sagittal
+27|axial
+38|lateral
+27|axial
+27|axial
+55|ap
+22|sagittal
+5|longitudinal
+27|axial
+1|coronal
+27|axial
+1|coronal
+27|axial
+27|axial
+27|axial
+27|axial
+27|axial
+27|axial
+27|axial
+55|ap
+38|lateral
+22|sagittal
+55|ap
+27|axial
+38|lateral
+55|ap
+38|lateral
+6|transverse
+56|oblique
+22|sagittal
+27|axial
+27|axial
+27|axial
+27|axial
+27|axial
+27|axial
+27|axial
+27|axial
+27|axial
+65|pa
+27|axial
+27|axial
+27|axial
+1|coronal
+22|sagittal
+22|sagittal
+22|sagittal
+27|axial
+27|axial
+5|longitudinal
+27|axial
+1|coronal
+22|sagittal
+1|coronal
+1|coronal
+27|axial
+55|ap
+55|ap
+38|lateral
+1|coronal
+22|sagittal
+27|axial
+1|coronal
+27|axial
+6|transverse
+27|axial
+27|axial
+6|transverse
+27|axial
+27|axial
+65|pa
+22|sagittal
+27|axial
+37|frontal
+55|ap
+27|axial
+1|coronal
+37|frontal
+65|pa
+27|axial
+27|axial
+1|coronal
+27|axial
+55|ap
+22|sagittal
+22|sagittal
+22|sagittal
+27|axial
+27|axial
+27|axial
+27|axial
+27|axial
+55|ap
+22|sagittal
+27|axial
+65|pa
+27|axial
+38|lateral
+3|mammo - cc
+55|ap
+5|longitudinal
+22|sagittal
+27|axial
+27|axial
+27|axial
+27|axial
+27|axial
+1|coronal
+22|sagittal
+27|axial
+55|ap
+55|ap
+22|sagittal
+1|coronal
+1|coronal
+55|ap
+37|frontal
+22|sagittal
+27|axial
+27|axial
+65|pa
+55|ap
+55|ap
+37|frontal
+27|axial
+22|sagittal
+27|axial
+27|axial
+27|axial
+65|pa
+3|mammo - cc
+1|coronal
+27|axial
+27|axial
+27|axial
+27|axial
+27|axial
+22|sagittal
+1|coronal
+55|ap
+27|axial
+22|sagittal
+27|axial
+27|axial
+27|axial
+22|sagittal
+27|axial
+1|coronal
+55|ap
+32|mammo - mlo
+37|frontal
+27|axial
+1|coronal
+22|sagittal
+55|ap
+1|coronal
+22|sagittal
+38|lateral
+22|sagittal
+55|ap
+1|coronal
+1|coronal
+22|sagittal
+1|coronal
+27|axial
+1|coronal
+38|lateral
+27|axial
+27|axial
+27|axial
+27|axial
+27|axial
+22|sagittal
+27|axial
+27|axial
+1|coronal
+65|pa
+40|3d reconstruction
+22|sagittal
+65|pa
+27|axial
+27|axial
+22|sagittal
+65|pa
+27|axial
+27|axial
+1|coronal
+27|axial
+27|axial
+38|lateral
+27|axial
+55|ap
+27|axial
+27|axial
+55|ap
+1|coronal
+27|axial
+65|pa
+27|axial
+27|axial
+37|frontal
+1|coronal
+27|axial
+38|lateral
+27|axial
+27|axial
+27|axial
+27|axial
+55|ap
+6|transverse
+22|sagittal
+56|oblique
+38|lateral
+27|axial
+1|coronal
+38|lateral
+27|axial
+27|axial
+27|axial
+1|coronal
+27|axial
+27|axial
+22|sagittal
+22|sagittal
+22|sagittal
+27|axial
+22|sagittal
+22|sagittal
+56|oblique
+27|axial
+55|ap
+38|lateral
+22|sagittal
+22|sagittal
+27|axial
+27|axial
+27|axial
+38|lateral
+37|frontal
+37|frontal
+1|coronal
+27|axial
+1|coronal
+27|axial
+27|axial
+27|axial
+27|axial
+22|sagittal
+27|axial
+22|sagittal
+27|axial
+38|lateral
+22|sagittal
+1|coronal
+38|lateral
+27|axial
+22|sagittal
+22|sagittal
+1|coronal
+65|pa
+27|axial
+55|ap
+32|mammo - mlo
+27|axial
+27|axial
+27|axial
+27|axial
+22|sagittal
+27|axial
+22|sagittal
+27|axial
+22|sagittal
+38|lateral
+38|lateral
+27|axial
+27|axial
+1|coronal
+27|axial
+27|axial
+1|coronal
+1|coronal
+27|axial
+27|axial
+27|axial
+1|coronal
+27|axial
+27|axial
+38|lateral
+27|axial
+55|ap
+22|sagittal
+40|3d reconstruction
+22|sagittal
+38|lateral
+27|axial
+22|sagittal
+27|axial
+22|sagittal
+27|axial
+22|sagittal
+22|sagittal
+37|frontal
+27|axial
+27|axial
+1|coronal
+55|ap
+1|coronal
+22|sagittal
+22|sagittal
+17|face, sinuses, and neck
+20|lung, mediastinum, pleura
+7|breast
+2|gastrointestinal
+61|heart and great vessels
+2|gastrointestinal
+58|spine and contents
+64|skull and contents
+61|heart and great vessels
+17|face, sinuses, and neck
+2|gastrointestinal
+20|lung, mediastinum, pleura
+61|heart and great vessels
+2|gastrointestinal
+64|skull and contents
+64|skull and contents
+11|genitourinary
+57|musculoskeletal
+57|musculoskeletal
+20|lung, mediastinum, pleura
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+57|musculoskeletal
+11|genitourinary
+64|skull and contents
+58|spine and contents
+2|gastrointestinal
+7|breast
+2|gastrointestinal
+17|face, sinuses, and neck
+11|genitourinary
+64|skull and contents
+57|musculoskeletal
+58|spine and contents
+57|musculoskeletal
+17|face, sinuses, and neck
+64|skull and contents
+64|skull and contents
+17|face, sinuses, and neck
+57|musculoskeletal
+20|lung, mediastinum, pleura
+2|gastrointestinal
+57|musculoskeletal
+57|musculoskeletal
+11|genitourinary
+58|spine and contents
+57|musculoskeletal
+2|gastrointestinal
+57|musculoskeletal
+2|gastrointestinal
+2|gastrointestinal
+61|heart and great vessels
+2|gastrointestinal
+64|skull and contents
+58|spine and contents
+2|gastrointestinal
+11|genitourinary
+57|musculoskeletal
+58|spine and contents
+64|skull and contents
+64|skull and contents
+2|gastrointestinal
+58|spine and contents
+64|skull and contents
+64|skull and contents
+11|genitourinary
+64|skull and contents
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+20|lung, mediastinum, pleura
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+17|face, sinuses, and neck
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+64|skull and contents
+11|genitourinary
+64|skull and contents
+57|musculoskeletal
+57|musculoskeletal
+20|lung, mediastinum, pleura
+64|skull and contents
+7|breast
+61|heart and great vessels
+57|musculoskeletal
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+61|heart and great vessels
+57|musculoskeletal
+64|skull and contents
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+58|spine and contents
+61|heart and great vessels
+58|spine and contents
+2|gastrointestinal
+64|skull and contents
+64|skull and contents
+64|skull and contents
+11|genitourinary
+64|skull and contents
+20|lung, mediastinum, pleura
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+11|genitourinary
+64|skull and contents
+2|gastrointestinal
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+2|gastrointestinal
+57|musculoskeletal
+57|musculoskeletal
+2|gastrointestinal
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+58|spine and contents
+64|skull and contents
+2|gastrointestinal
+57|musculoskeletal
+64|skull and contents
+20|lung, mediastinum, pleura
+2|gastrointestinal
+20|lung, mediastinum, pleura
+57|musculoskeletal
+64|skull and contents
+64|skull and contents
+20|lung, mediastinum, pleura
+11|genitourinary
+64|skull and contents
+20|lung, mediastinum, pleura
+64|skull and contents
+20|lung, mediastinum, pleura
+58|spine and contents
+58|spine and contents
+2|gastrointestinal
+64|skull and contents
+2|gastrointestinal
+2|gastrointestinal
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+64|skull and contents
+11|genitourinary
+66|vascular and lymphatic
+2|gastrointestinal
+64|skull and contents
+64|skull and contents
+20|lung, mediastinum, pleura
+2|gastrointestinal
+17|face, sinuses, and neck
+2|gastrointestinal
+20|lung, mediastinum, pleura
+64|skull and contents
+11|genitourinary
+20|lung, mediastinum, pleura
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+58|spine and contents
+61|heart and great vessels
+2|gastrointestinal
+64|skull and contents
+57|musculoskeletal
+57|musculoskeletal
+17|face, sinuses, and neck
+64|skull and contents
+64|skull and contents
+58|spine and contents
+64|skull and contents
+66|vascular and lymphatic
+58|spine and contents
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+2|gastrointestinal
+64|skull and contents
+64|skull and contents
+58|spine and contents
+2|gastrointestinal
+64|skull and contents
+57|musculoskeletal
+57|musculoskeletal
+11|genitourinary
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+61|heart and great vessels
+58|spine and contents
+58|spine and contents
+20|lung, mediastinum, pleura
+57|musculoskeletal
+58|spine and contents
+64|skull and contents
+2|gastrointestinal
+61|heart and great vessels
+57|musculoskeletal
+20|lung, mediastinum, pleura
+7|breast
+17|face, sinuses, and neck
+57|musculoskeletal
+57|musculoskeletal
+61|heart and great vessels
+64|skull and contents
+2|gastrointestinal
+64|skull and contents
+64|skull and contents
+11|genitourinary
+64|skull and contents
+2|gastrointestinal
+64|skull and contents
+61|heart and great vessels
+64|skull and contents
+58|spine and contents
+2|gastrointestinal
+64|skull and contents
+57|musculoskeletal
+58|spine and contents
+58|spine and contents
+64|skull and contents
+64|skull and contents
+11|genitourinary
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+64|skull and contents
+17|face, sinuses, and neck
+57|musculoskeletal
+57|musculoskeletal
+57|musculoskeletal
+64|skull and contents
+58|spine and contents
+64|skull and contents
+2|gastrointestinal
+64|skull and contents
+11|genitourinary
+57|musculoskeletal
+2|gastrointestinal
+11|genitourinary
+64|skull and contents
+2|gastrointestinal
+20|lung, mediastinum, pleura
+11|genitourinary
+64|skull and contents
+57|musculoskeletal
+2|gastrointestinal
+11|genitourinary
+64|skull and contents
+57|musculoskeletal
+61|heart and great vessels
+64|skull and contents
+2|gastrointestinal
+17|face, sinuses, and neck
+64|skull and contents
+57|musculoskeletal
+58|spine and contents
+58|spine and contents
+57|musculoskeletal
+57|musculoskeletal
+64|skull and contents
+64|skull and contents
+11|genitourinary
+11|genitourinary
+57|musculoskeletal
+58|spine and contents
+61|heart and great vessels
+58|spine and contents
+58|spine and contents
+20|lung, mediastinum, pleura
+7|breast
+58|spine and contents
+2|gastrointestinal
+58|spine and contents
+2|gastrointestinal
+11|genitourinary
+11|genitourinary
+2|gastrointestinal
+64|skull and contents
+64|skull and contents
+64|skull and contents
+66|vascular and lymphatic
+57|musculoskeletal
+57|musculoskeletal
+20|lung, mediastinum, pleura
+2|gastrointestinal
+17|face, sinuses, and neck
+64|skull and contents
+2|gastrointestinal
+64|skull and contents
+20|lung, mediastinum, pleura
+20|lung, mediastinum, pleura
+20|lung, mediastinum, pleura
+64|skull and contents
+2|gastrointestinal
+11|genitourinary
+66|vascular and lymphatic
+58|spine and contents
+20|lung, mediastinum, pleura
+64|skull and contents
+17|face, sinuses, and neck
+20|lung, mediastinum, pleura
+7|breast
+64|skull and contents
+2|gastrointestinal
+64|skull and contents
+64|skull and contents
+2|gastrointestinal
+20|lung, mediastinum, pleura
+64|skull and contents
+17|face, sinuses, and neck
+61|heart and great vessels
+64|skull and contents
+64|skull and contents
+2|gastrointestinal
+64|skull and contents
+20|lung, mediastinum, pleura
+58|spine and contents
+64|skull and contents
+64|skull and contents
+2|gastrointestinal
+7|breast
+2|gastrointestinal
+58|spine and contents
+64|skull and contents
+64|skull and contents
+17|face, sinuses, and neck
+64|skull and contents
+64|skull and contents
+64|skull and contents
+20|lung, mediastinum, pleura
+57|musculoskeletal
+64|skull and contents
+2|gastrointestinal
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+57|musculoskeletal
+57|musculoskeletal
+64|skull and contents
+20|lung, mediastinum, pleura
+2|gastrointestinal
+64|skull and contents
+64|skull and contents
+64|skull and contents
+58|spine and contents
+64|skull and contents
+64|skull and contents
+20|lung, mediastinum, pleura
+64|skull and contents
+57|musculoskeletal
+20|lung, mediastinum, pleura
+64|skull and contents
+2|gastrointestinal
+58|spine and contents
+20|lung, mediastinum, pleura
+17|face, sinuses, and neck
+7|breast
+64|skull and contents
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+2|gastrointestinal
+20|lung, mediastinum, pleura
+2|gastrointestinal
+58|spine and contents
+20|lung, mediastinum, pleura
+64|skull and contents
+2|gastrointestinal
+2|gastrointestinal
+58|spine and contents
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+17|face, sinuses, and neck
+64|skull and contents
+64|skull and contents
+20|lung, mediastinum, pleura
+57|musculoskeletal
+64|skull and contents
+2|gastrointestinal
+2|gastrointestinal
+11|genitourinary
+64|skull and contents
+20|lung, mediastinum, pleura
+64|skull and contents
+64|skull and contents
+11|genitourinary
+2|gastrointestinal
+11|genitourinary
+64|skull and contents
+58|spine and contents
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+66|vascular and lymphatic
+7|breast
+11|genitourinary
+66|vascular and lymphatic
+57|musculoskeletal
+64|skull and contents
+58|spine and contents
+57|musculoskeletal
+57|musculoskeletal
+57|musculoskeletal
+64|skull and contents
+57|musculoskeletal
+57|musculoskeletal
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+11|genitourinary
+57|musculoskeletal
+58|spine and contents
+2|gastrointestinal
+64|skull and contents
+61|heart and great vessels
+57|musculoskeletal
+64|skull and contents
+64|skull and contents
+58|spine and contents
+17|face, sinuses, and neck
+20|lung, mediastinum, pleura
+64|skull and contents
+64|skull and contents
+7|breast
+11|genitourinary
+64|skull and contents
+17|face, sinuses, and neck
+64|skull and contents
+57|musculoskeletal
+20|lung, mediastinum, pleura
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+58|spine and contents
+58|spine and contents
+64|skull and contents
+7|breast
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+2|gastrointestinal
+61|heart and great vessels
+20|lung, mediastinum, pleura
+17|face, sinuses, and neck
+20|lung, mediastinum, pleura
+64|skull and contents
+2|gastrointestinal
+58|spine and contents
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+58|spine and contents
+64|skull and contents
+20|lung, mediastinum, pleura
+64|skull and contents
+58|spine and contents
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+64|skull and contents
+58|spine and contents
+17|face, sinuses, and neck
+20|lung, mediastinum, pleura
+57|musculoskeletal
+11|genitourinary
+64|skull and contents
+6|transverse
+58|spine and contents
+64|skull and contents
+67|xr - plain film
+46|no
+2|gastrointestinal
+64|skull and contents
+64|skull and contents
+2|gastrointestinal
+22|sagittal
+64|skull and contents
+27|axial
+64|skull and contents
+57|musculoskeletal
+65|pa
+64|skull and contents
+64|skull and contents
+64|skull and contents
+66|vascular and lymphatic
+22|sagittal
+37|frontal
+46|no
+64|skull and contents
+14|ct with gi and iv contrast
+57|musculoskeletal
+3|mammo - cc
+27|axial
+64|skull and contents
+64|skull and contents
+17|face, sinuses, and neck
+61|heart and great vessels
+58|spine and contents
+61|heart and great vessels
+17|face, sinuses, and neck
+64|skull and contents
+27|axial
+27|axial
+67|xr - plain film
+20|lung, mediastinum, pleura
+67|xr - plain film
+7|breast
+67|xr - plain film
+6|transverse
+58|spine and contents
+57|musculoskeletal
+17|face, sinuses, and neck
+57|musculoskeletal
+67|xr - plain film
+2|gastrointestinal
+55|ap
+2|gastrointestinal
+64|skull and contents
+37|frontal
+2|gastrointestinal
+11|genitourinary
+67|xr - plain film
+58|spine and contents
+64|skull and contents
+22|sagittal
+27|axial
+58|spine and contents
+64|skull and contents
+11|genitourinary
+2|gastrointestinal
+27|axial
+8|cta - ct angiography
+64|skull and contents
+57|musculoskeletal
+27|axial
+64|skull and contents
+64|skull and contents
+24|an - angiogram
+64|skull and contents
+64|skull and contents
+27|axial
+67|xr - plain film
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+2|gastrointestinal
+58|spine and contents
+61|heart and great vessels
+64|skull and contents
+2|gastrointestinal
+57|musculoskeletal
+61|heart and great vessels
+17|face, sinuses, and neck
+57|musculoskeletal
+64|skull and contents
+20|lung, mediastinum, pleura
+67|xr - plain film
+64|skull and contents
+24|an - angiogram
+27|axial
+57|musculoskeletal
+58|spine and contents
+61|heart and great vessels
+58|spine and contents
+2|gastrointestinal
+64|skull and contents
+17|face, sinuses, and neck
+64|skull and contents
+22|sagittal
+58|spine and contents
+67|xr - plain film
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+46|no
+61|heart and great vessels
+2|gastrointestinal
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+6|transverse
+66|vascular and lymphatic
+67|xr - plain film
+2|gastrointestinal
+64|skull and contents
+64|skull and contents
+17|face, sinuses, and neck
+64|skull and contents
+64|skull and contents
+58|spine and contents
+2|gastrointestinal
+2|gastrointestinal
+57|musculoskeletal
+27|axial
+65|pa
+2|gastrointestinal
+2|gastrointestinal
+55|ap
+64|skull and contents
+33|mr - other pulse seq.
+2|gastrointestinal
+11|genitourinary
+64|skull and contents
+67|xr - plain film
+64|skull and contents
+24|an - angiogram
+58|spine and contents
+58|spine and contents
+2|gastrointestinal
+64|skull and contents
+67|xr - plain film
+27|axial
+64|skull and contents
+67|xr - plain film
+27|axial
+17|face, sinuses, and neck
+27|axial
+27|axial
+27|axial
+22|sagittal
+64|skull and contents
+37|frontal
+66|vascular and lymphatic
+11|genitourinary
+27|axial
+67|xr - plain film
+37|frontal
+27|axial
+27|axial
+64|skull and contents
+64|skull and contents
+17|face, sinuses, and neck
+64|skull and contents
+64|skull and contents
+1|coronal
+61|heart and great vessels
+2|gastrointestinal
+64|skull and contents
+25|us - ultrasound
+67|xr - plain film
+17|face, sinuses, and neck
+64|skull and contents
+64|skull and contents
+38|lateral
+58|spine and contents
+61|heart and great vessels
+58|spine and contents
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+27|axial
+17|face, sinuses, and neck
+64|skull and contents
+67|xr - plain film
+2|gastrointestinal
+64|skull and contents
+67|xr - plain film
+11|genitourinary
+2|gastrointestinal
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+61|heart and great vessels
+58|spine and contents
+55|ap
+66|vascular and lymphatic
+57|musculoskeletal
+57|musculoskeletal
+1|coronal
+2|gastrointestinal
+37|frontal
+57|musculoskeletal
+20|lung, mediastinum, pleura
+67|xr - plain film
+6|transverse
+57|musculoskeletal
+61|heart and great vessels
+6|transverse
+64|skull and contents
+2|gastrointestinal
+27|axial
+64|skull and contents
+27|axial
+66|vascular and lymphatic
+2|gastrointestinal
+27|axial
+67|xr - plain film
+64|skull and contents
+58|spine and contents
+2|gastrointestinal
+64|skull and contents
+7|breast
+58|spine and contents
+58|spine and contents
+64|skull and contents
+27|axial
+8|cta - ct angiography
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+64|skull and contents
+40|3d reconstruction
+57|musculoskeletal
+67|xr - plain film
+57|musculoskeletal
+64|skull and contents
+58|spine and contents
+64|skull and contents
+27|axial
+64|skull and contents
+11|genitourinary
+17|face, sinuses, and neck
+6|transverse
+11|genitourinary
+64|skull and contents
+27|axial
+37|frontal
+27|axial
+64|skull and contents
+57|musculoskeletal
+67|xr - plain film
+27|axial
+64|skull and contents
+57|musculoskeletal
+20|lung, mediastinum, pleura
+64|skull and contents
+2|gastrointestinal
+17|face, sinuses, and neck
+17|face, sinuses, and neck
+57|musculoskeletal
+58|spine and contents
+57|musculoskeletal
+57|musculoskeletal
+55|ap
+64|skull and contents
+64|skull and contents
+2|gastrointestinal
+2|gastrointestinal
+57|musculoskeletal
+64|skull and contents
+55|ap
+66|vascular and lymphatic
+17|face, sinuses, and neck
+20|lung, mediastinum, pleura
+2|gastrointestinal
+67|xr - plain film
+64|skull and contents
+58|spine and contents
+2|gastrointestinal
+57|musculoskeletal
+27|axial
+2|gastrointestinal
+64|skull and contents
+64|skull and contents
+64|skull and contents
+2|gastrointestinal
+57|musculoskeletal
+67|xr - plain film
+11|genitourinary
+67|xr - plain film
+17|face, sinuses, and neck
+66|vascular and lymphatic
+67|xr - plain film
+64|skull and contents
+2|gastrointestinal
+2|gastrointestinal
+37|frontal
+64|skull and contents
+67|xr - plain film
+11|genitourinary
+7|breast
+58|spine and contents
+27|axial
+66|vascular and lymphatic
+17|face, sinuses, and neck
+67|xr - plain film
+67|xr - plain film
+64|skull and contents
+2|gastrointestinal
+64|skull and contents
+66|vascular and lymphatic
+2|gastrointestinal
+37|frontal
+17|face, sinuses, and neck
+17|face, sinuses, and neck
+24|an - angiogram
+64|skull and contents
+64|skull and contents
+2|gastrointestinal
+58|spine and contents
+66|vascular and lymphatic
+58|spine and contents
+17|face, sinuses, and neck
+64|skull and contents
+64|skull and contents
+67|xr - plain film
+52|bas - barium swallow
+17|face, sinuses, and neck
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+24|an - angiogram
+61|heart and great vessels
+67|xr - plain film
+64|skull and contents
+27|axial
+64|skull and contents
+57|musculoskeletal
+27|axial
+66|vascular and lymphatic
+57|musculoskeletal
+27|axial
+55|ap
+20|lung, mediastinum, pleura
+27|axial
+64|skull and contents
+2|gastrointestinal
+58|spine and contents
+64|skull and contents
+2|gastrointestinal
+27|axial
+64|skull and contents
+57|musculoskeletal
+20|lung, mediastinum, pleura
+64|skull and contents
+27|axial
+58|spine and contents
+61|heart and great vessels
+27|axial
+40|3d reconstruction
+22|sagittal
+64|skull and contents
+64|skull and contents
+52|bas - barium swallow
+64|skull and contents
+67|xr - plain film
+62|t1
+27|axial
+67|xr - plain film
+11|genitourinary
+27|axial
+67|xr - plain film
+64|skull and contents
+27|axial
+20|lung, mediastinum, pleura
+57|musculoskeletal
+64|skull and contents
+57|musculoskeletal
+27|axial
+17|face, sinuses, and neck
+64|skull and contents
+64|skull and contents
+67|xr - plain film
+68|mr - pdw proton density
+64|skull and contents
+2|gastrointestinal
+66|vascular and lymphatic
+27|axial
+22|sagittal
+37|frontal
+64|skull and contents
+64|skull and contents
+37|frontal
+2|gastrointestinal
+27|axial
+64|skull and contents
+58|spine and contents
+17|face, sinuses, and neck
+57|musculoskeletal
+27|axial
+64|skull and contents
+64|skull and contents
+64|skull and contents
+64|skull and contents
+66|vascular and lymphatic
+67|xr - plain film
+27|axial
+40|3d reconstruction
+2|gastrointestinal
+2|gastrointestinal
+11|genitourinary
+57|musculoskeletal
+57|musculoskeletal
+66|vascular and lymphatic
+17|face, sinuses, and neck
+55|ap
+64|skull and contents
+64|skull and contents
+64|skull and contents
+27|axial
+64|skull and contents
+25|us - ultrasound
+2|gastrointestinal
+6|transverse
+58|spine and contents
+52|bas - barium swallow
+64|skull and contents
+61|heart and great vessels
+57|musculoskeletal
+27|axial
+64|skull and contents
+27|axial
+64|skull and contents
+8|cta - ct angiography
+64|skull and contents
+66|vascular and lymphatic
+24|an - angiogram
+27|axial
+64|skull and contents
+27|axial
+64|skull and contents
+11|genitourinary
+27|axial
+64|skull and contents
+64|skull and contents
+57|musculoskeletal
+57|musculoskeletal
+56|oblique
+64|skull and contents
+38|lateral
+64|skull and contents
+8|cta - ct angiography
+66|vascular and lymphatic
+64|skull and contents
+17|face, sinuses, and neck
+17|face, sinuses, and neck
+64|skull and contents
+2|gastrointestinal
+27|axial
+61|heart and great vessels
+17|face, sinuses, and neck
+67|xr - plain film
+64|skull and contents
+52|bas - barium swallow
+58|spine and contents
+18|mr - t1w w/gadolinium
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+64|skull and contents
+46|no
+64|skull and contents
+27|axial
+58|spine and contents
+64|skull and contents
+67|xr - plain film
+27|axial
+58|spine and contents
+64|skull and contents
+57|musculoskeletal
+64|skull and contents
+64|skull and contents
+58|spine and contents
